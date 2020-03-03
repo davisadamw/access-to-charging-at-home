@@ -1,0 +1,1418 @@
+source,var_name,var_label,value,value_label
+survey_res_currentvehs,vehtype,Vehicle type,1,Subcompact car
+survey_res_currentvehs,vehtype,Vehicle type,2,Compact car
+survey_res_currentvehs,vehtype,Vehicle type,3,Midsize car
+survey_res_currentvehs,vehtype,Vehicle type,4,Large car
+survey_res_currentvehs,vehtype,Vehicle type,5,Sports car
+survey_res_currentvehs,vehtype,Vehicle type,6,"Crossover, small"
+survey_res_currentvehs,vehtype,Vehicle type,7,"Crossover, midsize"
+survey_res_currentvehs,vehtype,Vehicle type,8,"SUV, small/midsize"
+survey_res_currentvehs,vehtype,Vehicle type,9,"SUV, full-size/large"
+survey_res_currentvehs,vehtype,Vehicle type,10,"Pickup truck, small"
+survey_res_currentvehs,vehtype,Vehicle type,11,"Pickup truck, full-size/large"
+survey_res_currentvehs,vehtype,Vehicle type,12,"Van, small"
+survey_res_currentvehs,vehtype,Vehicle type,13,"Van, full-size/large"
+survey_res_currentvehs,vehmake,Vehicle make,1,Acura
+survey_res_currentvehs,vehmake,Vehicle make,2,Aston Martin
+survey_res_currentvehs,vehmake,Vehicle make,3,Audi
+survey_res_currentvehs,vehmake,Vehicle make,4,Bentley
+survey_res_currentvehs,vehmake,Vehicle make,5,BMW
+survey_res_currentvehs,vehmake,Vehicle make,6,Buick
+survey_res_currentvehs,vehmake,Vehicle make,7,Cadillac
+survey_res_currentvehs,vehmake,Vehicle make,8,Chevrolet
+survey_res_currentvehs,vehmake,Vehicle make,9,Chrysler
+survey_res_currentvehs,vehmake,Vehicle make,10,Dodge
+survey_res_currentvehs,vehmake,Vehicle make,11,Ferrari
+survey_res_currentvehs,vehmake,Vehicle make,12,Fiat
+survey_res_currentvehs,vehmake,Vehicle make,13,Ford
+survey_res_currentvehs,vehmake,Vehicle make,14,GMC
+survey_res_currentvehs,vehmake,Vehicle make,15,Honda
+survey_res_currentvehs,vehmake,Vehicle make,16,HUMMER
+survey_res_currentvehs,vehmake,Vehicle make,17,Hyundai
+survey_res_currentvehs,vehmake,Vehicle make,18,Infiniti
+survey_res_currentvehs,vehmake,Vehicle make,19,Isuzu
+survey_res_currentvehs,vehmake,Vehicle make,20,Jaguar
+survey_res_currentvehs,vehmake,Vehicle make,21,Jeep
+survey_res_currentvehs,vehmake,Vehicle make,22,Kia
+survey_res_currentvehs,vehmake,Vehicle make,23,Lamborghini
+survey_res_currentvehs,vehmake,Vehicle make,24,Land Rover
+survey_res_currentvehs,vehmake,Vehicle make,25,Lexus
+survey_res_currentvehs,vehmake,Vehicle make,26,Lincoln
+survey_res_currentvehs,vehmake,Vehicle make,27,Lotus
+survey_res_currentvehs,vehmake,Vehicle make,28,Maserati
+survey_res_currentvehs,vehmake,Vehicle make,29,Maybach
+survey_res_currentvehs,vehmake,Vehicle make,30,Mazda
+survey_res_currentvehs,vehmake,Vehicle make,31,Mercedes-Benz
+survey_res_currentvehs,vehmake,Vehicle make,32,Mercury
+survey_res_currentvehs,vehmake,Vehicle make,33,MINI
+survey_res_currentvehs,vehmake,Vehicle make,34,Mitsubishi
+survey_res_currentvehs,vehmake,Vehicle make,35,Nissan
+survey_res_currentvehs,vehmake,Vehicle make,36,Oldsmobile
+survey_res_currentvehs,vehmake,Vehicle make,37,Panoz
+survey_res_currentvehs,vehmake,Vehicle make,38,Pontiac
+survey_res_currentvehs,vehmake,Vehicle make,39,Porsche
+survey_res_currentvehs,vehmake,Vehicle make,41,Rolls-Royce
+survey_res_currentvehs,vehmake,Vehicle make,42,Saab
+survey_res_currentvehs,vehmake,Vehicle make,43,Saturn
+survey_res_currentvehs,vehmake,Vehicle make,44,Scion
+survey_res_currentvehs,vehmake,Vehicle make,45,Smart
+survey_res_currentvehs,vehmake,Vehicle make,46,Subaru
+survey_res_currentvehs,vehmake,Vehicle make,47,Suzuki
+survey_res_currentvehs,vehmake,Vehicle make,48,Toyota
+survey_res_currentvehs,vehmake,Vehicle make,49,Tesla
+survey_res_currentvehs,vehmake,Vehicle make,50,Volkswagen
+survey_res_currentvehs,vehmake,Vehicle make,51,Volvo
+survey_res_currentvehs,vehmake,Vehicle make,52,Other/Don't know
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,1,Gasoline
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,2,Hybrid (Gasoline)
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,3,Plug-in Hybrid Electric vehicle (PHEV)
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,4,Gasoline-ethanol Flex Fuel vehicle (E85 FFV)
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,5,Diesel
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,7,Compressed Natural Gas (CNG) vehicle
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,9,Full Electric Vehicle
+survey_res_currentvehs,vehfueltype,Vehicle engine/fuel type,10,Hydrogen vehicle
+survey_res_currentvehs,d18_how_acquired,How was this vehicle acquired by your household?,1,Purchased new
+survey_res_currentvehs,d18_how_acquired,How was this vehicle acquired by your household?,2,Leased new
+survey_res_currentvehs,d18_how_acquired,How was this vehicle acquired by your household?,3,Purchased used or previously owned
+survey_res_currentvehs,d18_how_acquired,How was this vehicle acquired by your household?,4,Other (e.g. gifted or inherited)
+survey_res_currentvehs,replacement,Was this vehicle a replacement for a previous vehicle in your household?,1,Yes
+survey_res_currentvehs,replacement,Was this vehicle a replacement for a previous vehicle in your household?,2,"No, it was an additional vehicle"
+survey_res_currentvehs,season_acquired,What time of year was this vehicle acquired?,1,Winter
+survey_res_currentvehs,season_acquired,What time of year was this vehicle acquired?,2,Spring
+survey_res_currentvehs,season_acquired,What time of year was this vehicle acquired?,3,Summer
+survey_res_currentvehs,season_acquired,What time of year was this vehicle acquired?,4,Fall
+survey_res_currentvehs,season_acquired,What time of year was this vehicle acquired?,5,Don’t know
+survey_res_currentvehs,other_drivers,How often is this vehicle driven by other members of the household?,1,Frequently (i.e. every day)
+survey_res_currentvehs,other_drivers,How often is this vehicle driven by other members of the household?,2,Sometimes (i.e. once or twice a week)
+survey_res_currentvehs,other_drivers,How often is this vehicle driven by other members of the household?,3,Rarely (i.e. once a month or less)
+survey_res_currentvehs,other_drivers,How often is this vehicle driven by other members of the household?,4,Never
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,1,In less than 1 year
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,2,In 1 to 3 years
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,3,In 3 to 5 years
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,4,In 5 to 10 years
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,5,In more than 10 years
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,6,"Never, I am going to keep it"
+survey_res_currentvehs,replace_time,When do you expect to replace this vehicle?,7,"Never, I am going to dispose of it and NOT replace it"
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,1,Trade it in
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,2,Sell it
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,3,Give it away to family/friends
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,4,Donate it to charity
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,5,"Junk it, scrap it"
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,6,Return it to leasing company
+survey_res_currentvehs,dispose,How will you dispose of this vehicle?,7,Other
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,1,Subcompact car
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,2,Compact car
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,3,Midsize car
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,4,Large car
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,5,Sports car
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,6,"Crossover, small"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,7,"Crossover, midsize"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,8,"SUV, small/midsize"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,9,"SUV, full-size/large"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,10,"Pickup truck, small"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,11,"Pickup truck, full-size/large"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,12,"Van, small"
+survey_res_currentvehs,replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,13,"Van, full-size/large"
+survey_res_currentvehs,replace_newused,Do you expect the replacement vehicle to be new or used?,1,New
+survey_res_currentvehs,replace_newused,Do you expect the replacement vehicle to be new or used?,2,"Used, 1 to 3 years old"
+survey_res_currentvehs,replace_newused,Do you expect the replacement vehicle to be new or used?,3,"Used, 3 to 5 years old"
+survey_res_currentvehs,replace_newused,Do you expect the replacement vehicle to be new or used?,4,"Used, 5 to 10 years old"
+survey_res_currentvehs,replace_newused,Do you expect the replacement vehicle to be new or used?,5,"Used, More than 10 years old"
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,1,Gasoline
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,2,Hybrid (Gasoline)
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,3,Plug-in Hybrid Electric vehicle (PHEV)
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,4,Gasoline-ethanol Flex Fuel vehicle (E85 FFV)
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,5,Diesel
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,7,Compressed Natural Gas (CNG) vehicle
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,9,Full Electric Vehicle
+survey_res_currentvehs,replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,10,Hydrogen vehicle
+survey_res_currentvehs,pevowner,Current ownership/lease of one or more Plug-in Hybrid Electric Vehicles (PHEV's) or Battery Electric Vehicles (BEV's),0,Respondent does not have any PHEV's or BEV's
+survey_res_currentvehs,pevowner,Current ownership/lease of one or more Plug-in Hybrid Electric Vehicles (PHEV's) or Battery Electric Vehicles (BEV's),1,Respondent has one or more PHEV's or BEV's
+survey_res_households,gender,Gender,1,Male
+survey_res_households,gender,Gender,2,Female
+survey_res_households,gender,Gender,3,Other
+survey_res_households,gender,Gender,4,Prefer not to answer
+survey_res_households,ethnicity,Ethnic background,1,American Indian or Alaska Native
+survey_res_households,ethnicity,Ethnic background,2,Asian
+survey_res_households,ethnicity,Ethnic background,3,Black or African American
+survey_res_households,ethnicity,Ethnic background,4,Hispanic or Latino
+survey_res_households,ethnicity,Ethnic background,5,Native Hawaiian or Other Pacific Islander
+survey_res_households,ethnicity,Ethnic background,6,White
+survey_res_households,ethnicity,Ethnic background,7,"Other, please specify"
+survey_res_households,ethnicity,Ethnic background,8,Prefer not to answer
+survey_res_households,education,Highest level of education completed,1,Less than high school
+survey_res_households,education,Highest level of education completed,2,High school graduate/GED
+survey_res_households,education,Highest level of education completed,3,Technical school/professional business school
+survey_res_households,education,Highest level of education completed,4,Some college
+survey_res_households,education,Highest level of education completed,5,"Community college graduate (Associate degree, 2-year degree)"
+survey_res_households,education,Highest level of education completed,6,College graduate (4-year degree)
+survey_res_households,education,Highest level of education completed,7,Post-graduate work
+survey_res_households,education,Highest level of education completed,8,Post graduate degree
+survey_res_households,drivingfreq,How often does this person drive?,1,Frequently (i.e. every day)
+survey_res_households,drivingfreq,How often does this person drive?,2,Sometimes (i.e. once or twice a week)
+survey_res_households,drivingfreq,How often does this person drive?,3,Rarely (i.e. once a month or less)
+survey_res_households,drivingfreq,How often does this person drive?,4,Never
+survey_res_households,drivingfreq,How often does this person drive?,5,"Not applicable, no license"
+survey_res_households,employment,Employment status,1,Full-time (total 35 or more hours per week)
+survey_res_households,employment,Employment status,2,Part-time (total less than 35 hours per week)
+survey_res_households,employment,Employment status,3,Both full- and part-time
+survey_res_households,employment,Employment status,4,"Do not work for pay (e.g. retired, unemployed)"
+survey_res_households,employment,Employment status,5,Self employed
+survey_res_households,commutework,[If employed] Does this person leave home to travel to work?,1,Yes
+survey_res_households,commutework,[If employed] Does this person leave home to travel to work?,2,No
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,1,Drive alone using a personal vehicle
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,2,Carpool/vanpool
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,3,"Rail (light/heavy, subway/metro, etc.)"
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,4,Bus
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,5,Walk
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,6,Motorcycle
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,7,Bicycle
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,8,Other
+survey_res_households,worktransport,[If leaves home to travel to work] Primary type of transportation used to get to work,9,Telecommute
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,1,One day
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,2,Two days
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,3,Three days
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,4,Four days
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,5,Five days
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,6,Six days
+survey_res_households,workdays,[If leaves home to travel to work] Number of days per week with travel to primary workplace,7,Seven days
+survey_res_households,workvehicle,[If leaves home to travel to work] Use household vehicle for part or all of the trip to work?,1,Part
+survey_res_households,workvehicle,[If leaves home to travel to work] Use household vehicle for part or all of the trip to work?,2,All
+survey_res_households,workvehicle,[If leaves home to travel to work] Use household vehicle for part or all of the trip to work?,3,Not at all
+survey_res_households,enrolled,Currently enrolled in college/university?,1,Full-time on campus
+survey_res_households,enrolled,Currently enrolled in college/university?,2,Part-time on campus
+survey_res_households,enrolled,Currently enrolled in college/university?,3,Full-time or part-time online
+survey_res_households,enrolled,Currently enrolled in college/university?,4,Not currently enrolled
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,1,"Drive alone using a car, SUV, pickup, or van"
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,2,Carpool/vanpool
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,3,"Rail (light/heavy, subway/metro, trolley, etc.)"
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,4,Bus
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,5,Walk
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,6,Motorcycle
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,7,Bicycle
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,8,Other
+survey_res_households,schooltransport,[If enrolled] What is the primary type of transportation you use to get to school?,9,Online courses/online programs
+survey_res_households,pevowner,Current ownership/lease of one or more Plug-in Hybrid Electric Vehicles (PHEV's) or Battery Electric Vehicles (BEV's),0,Respondent does not have any PHEV's or BEV's
+survey_res_households,pevowner,Current ownership/lease of one or more Plug-in Hybrid Electric Vehicles (PHEV's) or Battery Electric Vehicles (BEV's),1,Respondent has one or more PHEV's or BEV's
+survey_res_main,recruit,Administration Type,1,General residential postcard
+survey_res_main,recruit,Administration Type,2,PEV postcard
+survey_res_main,recruit,Administration Type,3,Research Now
+survey_res_main,language,Language,1,English
+survey_res_main,language,Language,2,Spanish
+survey_res_main,county,What county do you currently live in?,1,Alameda County
+survey_res_main,county,What county do you currently live in?,2,Alpine County
+survey_res_main,county,What county do you currently live in?,3,Amador County
+survey_res_main,county,What county do you currently live in?,4,Butte County
+survey_res_main,county,What county do you currently live in?,5,Calaveras County
+survey_res_main,county,What county do you currently live in?,6,Colusa County
+survey_res_main,county,What county do you currently live in?,7,Contra Costa County
+survey_res_main,county,What county do you currently live in?,8,Del Norte County
+survey_res_main,county,What county do you currently live in?,9,El Dorado County
+survey_res_main,county,What county do you currently live in?,10,Fresno County
+survey_res_main,county,What county do you currently live in?,11,Glenn County
+survey_res_main,county,What county do you currently live in?,12,Humboldt County
+survey_res_main,county,What county do you currently live in?,13,Imperial County
+survey_res_main,county,What county do you currently live in?,14,Inyo County
+survey_res_main,county,What county do you currently live in?,15,Kern County
+survey_res_main,county,What county do you currently live in?,16,Kings County
+survey_res_main,county,What county do you currently live in?,17,Lake County
+survey_res_main,county,What county do you currently live in?,18,Lassen County
+survey_res_main,county,What county do you currently live in?,19,Los Angeles County
+survey_res_main,county,What county do you currently live in?,20,Madera County
+survey_res_main,county,What county do you currently live in?,21,Marin County
+survey_res_main,county,What county do you currently live in?,22,Mariposa County
+survey_res_main,county,What county do you currently live in?,23,Mendocino County
+survey_res_main,county,What county do you currently live in?,24,Merced County
+survey_res_main,county,What county do you currently live in?,25,Modoc County
+survey_res_main,county,What county do you currently live in?,26,Mono County
+survey_res_main,county,What county do you currently live in?,27,Monterey County
+survey_res_main,county,What county do you currently live in?,28,Napa County
+survey_res_main,county,What county do you currently live in?,29,Nevada County
+survey_res_main,county,What county do you currently live in?,30,Orange County
+survey_res_main,county,What county do you currently live in?,31,Placer County
+survey_res_main,county,What county do you currently live in?,32,Plumas County
+survey_res_main,county,What county do you currently live in?,33,Riverside County
+survey_res_main,county,What county do you currently live in?,34,Sacramento County
+survey_res_main,county,What county do you currently live in?,35,San Benito County
+survey_res_main,county,What county do you currently live in?,36,San Bernardino County
+survey_res_main,county,What county do you currently live in?,37,San Diego County
+survey_res_main,county,What county do you currently live in?,38,San Francisco County
+survey_res_main,county,What county do you currently live in?,39,San Joaquin County
+survey_res_main,county,What county do you currently live in?,40,San Luis Obispo County
+survey_res_main,county,What county do you currently live in?,41,San Mateo County
+survey_res_main,county,What county do you currently live in?,42,Santa Barbara County
+survey_res_main,county,What county do you currently live in?,43,Santa Clara County
+survey_res_main,county,What county do you currently live in?,44,Santa Cruz County
+survey_res_main,county,What county do you currently live in?,45,Shasta County
+survey_res_main,county,What county do you currently live in?,46,Sierra County
+survey_res_main,county,What county do you currently live in?,47,Siskiyou County
+survey_res_main,county,What county do you currently live in?,48,Solano County
+survey_res_main,county,What county do you currently live in?,49,Sonoma County
+survey_res_main,county,What county do you currently live in?,50,Stanislaus County
+survey_res_main,county,What county do you currently live in?,51,Sutter County
+survey_res_main,county,What county do you currently live in?,52,Tehama County
+survey_res_main,county,What county do you currently live in?,53,Trinity County
+survey_res_main,county,What county do you currently live in?,54,Tulare County
+survey_res_main,county,What county do you currently live in?,55,Tuolumne County
+survey_res_main,county,What county do you currently live in?,56,Ventura County
+survey_res_main,county,What county do you currently live in?,57,Yolo County
+survey_res_main,county,What county do you currently live in?,58,Yuba County
+survey_res_main,county,What county do you currently live in?,59,Other
+survey_res_main,futuredecisionrole,"For your household, what will be the extent of your involvement in future vehicle purchase or lease decisions?",1,I will be the sole decision maker
+survey_res_main,futuredecisionrole,"For your household, what will be the extent of your involvement in future vehicle purchase or lease decisions?",2,I will be the primary decision maker with input from another household member
+survey_res_main,futuredecisionrole,"For your household, what will be the extent of your involvement in future vehicle purchase or lease decisions?",3,I will share equally in making the decision with another household member(s)
+survey_res_main,futuredecisionrole,"For your household, what will be the extent of your involvement in future vehicle purchase or lease decisions?",4,"I will provide input into the decision, but I will not be the primary decision maker"
+survey_res_main,futuredecisionrole,"For your household, what will be the extent of your involvement in future vehicle purchase or lease decisions?",5,Another person will be the sole decision maker
+survey_res_main,housing,What type of housing do you live at?,1,Single family house not attached to any other house
+survey_res_main,housing,What type of housing do you live at?,2,"Single family house attached to one or more houses (townhouse, duplex, triplex) each with separate entry"
+survey_res_main,housing,What type of housing do you live at?,3,A mobile home
+survey_res_main,housing,What type of housing do you live at?,4,Building with 2
+survey_res_main,housing,What type of housing do you live at?,5,Building with 5
+survey_res_main,housing,What type of housing do you live at?,6,Building with 20 or more apartments/ condos / studios / rooms
+survey_res_main,housing,What type of housing do you live at?,7,"Boat, RV, Van, etc."
+survey_res_main,housing,What type of housing do you live at?,8,"Other, please specify:"
+survey_res_main,parkingtype,What type of parking do you primarily use at your residence?,1,Personal garage
+survey_res_main,parkingtype,What type of parking do you primarily use at your residence?,2,Personal drive way
+survey_res_main,parkingtype,What type of parking do you primarily use at your residence?,3,Parking garage
+survey_res_main,parkingtype,What type of parking do you primarily use at your residence?,4,Parking lot
+survey_res_main,parkingtype,What type of parking do you primarily use at your residence?,5,Street Parking
+survey_res_main,parkingpay,Do you pay to park at your residence?,1,Yes
+survey_res_main,parkingpay,Do you pay to park at your residence?,2,No
+survey_res_main,parkperiod,Length of time for each parking payment,1,Per day
+survey_res_main,parkperiod,Length of time for each parking payment,2,Per week
+survey_res_main,parkperiod,Length of time for each parking payment,3,Per month
+survey_res_main,companyvehicles,"Do you, or does any member of your household, have access to a company or employer supplied vehicle for personal use?",1,Yes
+survey_res_main,companyvehicles,"Do you, or does any member of your household, have access to a company or employer supplied vehicle for personal use?",2,No
+survey_res_main,futurefirst,"When do you anticipate purchasing or leasing a car, SUV, van, or pick-up truck in your household? Do NOT include vehicles that will be supplied by employers.",1,Less than 1 year
+survey_res_main,futurefirst,"When do you anticipate purchasing or leasing a car, SUV, van, or pick-up truck in your household? Do NOT include vehicles that will be supplied by employers.",2,1 to 2 years
+survey_res_main,futurefirst,"When do you anticipate purchasing or leasing a car, SUV, van, or pick-up truck in your household? Do NOT include vehicles that will be supplied by employers.",3,3 to 5 years
+survey_res_main,futurefirst,"When do you anticipate purchasing or leasing a car, SUV, van, or pick-up truck in your household? Do NOT include vehicles that will be supplied by employers.",4,6 to 9 years
+survey_res_main,futurefirst,"When do you anticipate purchasing or leasing a car, SUV, van, or pick-up truck in your household? Do NOT include vehicles that will be supplied by employers.",5,10 years or more
+survey_res_main,futurefirst,"When do you anticipate purchasing or leasing a car, SUV, van, or pick-up truck in your household? Do NOT include vehicles that will be supplied by employers.",6,I never plan to purchase or lease a vehicle
+survey_res_main,pevowner,Do you or any other members of your household currently own a Plug-In Electric Vehicle (plug-in hybrid or full electric)?,1,Yes
+survey_res_main,pevowner,Do you or any other members of your household currently own a Plug-In Electric Vehicle (plug-in hybrid or full electric)?,2,No
+survey_res_main,whyphev1,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Saving money on fuel costs",0,Not Selected
+survey_res_main,whyphev1,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Saving money on fuel costs",1,Selected
+survey_res_main,whyphev2,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Saving money overall",0,Not Selected
+survey_res_main,whyphev2,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Saving money overall",1,Selected
+survey_res_main,whyphev3,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Good lease terms & options",0,Not Selected
+survey_res_main,whyphev3,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Good lease terms & options",1,Selected
+survey_res_main,whyphev4,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Reducing environmental impacts",0,Not Selected
+survey_res_main,whyphev4,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Reducing environmental impacts",1,Selected
+survey_res_main,whyphev5,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Carpool or High Occupancy Vehicle (HOV) lane access",0,Not Selected
+survey_res_main,whyphev5,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Carpool or High Occupancy Vehicle (HOV) lane access",1,Selected
+survey_res_main,whyphev6,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Free or privileged parking space",0,Not Selected
+survey_res_main,whyphev6,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Free or privileged parking space",1,Selected
+survey_res_main,whyphev7,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Better finance/interest rate",0,Not Selected
+survey_res_main,whyphev7,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Better finance/interest rate",1,Selected
+survey_res_main,whyphev8,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Manufacturer or dealer cash back",0,Not Selected
+survey_res_main,whyphev8,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Manufacturer or dealer cash back",1,Selected
+survey_res_main,whyphev9,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Insurance discount",0,Not Selected
+survey_res_main,whyphev9,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Insurance discount",1,Selected
+survey_res_main,whyphev10,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Politics of fossil fuels",0,Not Selected
+survey_res_main,whyphev10,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Politics of fossil fuels",1,Selected
+survey_res_main,whyphev11,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Convenience of charging at home or work",0,Not Selected
+survey_res_main,whyphev11,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Convenience of charging at home or work",1,Selected
+survey_res_main,whyphev12,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Free charging at work or away from home",0,Not Selected
+survey_res_main,whyphev12,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Free charging at work or away from home",1,Selected
+survey_res_main,whyphev13,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Special/low EV electricity rate at home",0,Not Selected
+survey_res_main,whyphev13,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Special/low EV electricity rate at home",1,Selected
+survey_res_main,whyphev14,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Vehicle performance",0,Not Selected
+survey_res_main,whyphev14,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Vehicle performance",1,Selected
+survey_res_main,whyphev15,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Vehicle styling, finish and comfort",0,Not Selected
+survey_res_main,whyphev15,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Vehicle styling, finish and comfort",1,Selected
+survey_res_main,whyphev16,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+A desire for the newest technology",0,Not Selected
+survey_res_main,whyphev16,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+A desire for the newest technology",1,Selected
+survey_res_main,whyphev17,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Brand name",0,Not Selected
+survey_res_main,whyphev17,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Brand name",1,Selected
+survey_res_main,whyphev18,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Other",0,Not Selected
+survey_res_main,whyphev18,"Which of the following factors were the most important reasons why you decided to purchase a plug-in hybrid vehicle? 
+Other",1,Selected
+survey_res_main,whybev1,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Saving money on fuel costs",0,Not Selected
+survey_res_main,whybev1,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Saving money on fuel costs",1,Selected
+survey_res_main,whybev2,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Saving money overall",0,Not Selected
+survey_res_main,whybev2,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Saving money overall",1,Selected
+survey_res_main,whybev3,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Good lease terms & options",0,Not Selected
+survey_res_main,whybev3,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Good lease terms & options",1,Selected
+survey_res_main,whybev4,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Reducing environmental impacts",0,Not Selected
+survey_res_main,whybev4,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Reducing environmental impacts",1,Selected
+survey_res_main,whybev5,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Carpool or High Occupancy Vehicle (HOV) lane access",0,Not Selected
+survey_res_main,whybev5,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Carpool or High Occupancy Vehicle (HOV) lane access",1,Selected
+survey_res_main,whybev6,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Free or privileged parking space",0,Not Selected
+survey_res_main,whybev6,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Free or privileged parking space",1,Selected
+survey_res_main,whybev7,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Better finance/interest rate",0,Not Selected
+survey_res_main,whybev7,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Better finance/interest rate",1,Selected
+survey_res_main,whybev8,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Manufacturer or dealer cash back",0,Not Selected
+survey_res_main,whybev8,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Manufacturer or dealer cash back",1,Selected
+survey_res_main,whybev9,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Insurance discount",0,Not Selected
+survey_res_main,whybev9,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Insurance discount",1,Selected
+survey_res_main,whybev10,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Politics of fossil fuels",0,Not Selected
+survey_res_main,whybev10,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Politics of fossil fuels",1,Selected
+survey_res_main,whybev11,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Convenience of charging at home or work",0,Not Selected
+survey_res_main,whybev11,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Convenience of charging at home or work",1,Selected
+survey_res_main,whybev12,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Free charging at work or away from home",0,Not Selected
+survey_res_main,whybev12,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Free charging at work or away from home",1,Selected
+survey_res_main,whybev13,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Special/low EV electricity rate at home",0,Not Selected
+survey_res_main,whybev13,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Special/low EV electricity rate at home",1,Selected
+survey_res_main,whybev14,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Vehicle performance",0,Not Selected
+survey_res_main,whybev14,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Vehicle performance",1,Selected
+survey_res_main,whybev15,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Vehicle styling, finish and comfort",0,Not Selected
+survey_res_main,whybev15,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Vehicle styling, finish and comfort",1,Selected
+survey_res_main,whybev16,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+A desire for the newest technology",0,Not Selected
+survey_res_main,whybev16,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+A desire for the newest technology",1,Selected
+survey_res_main,whybev17,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Brand name",0,Not Selected
+survey_res_main,whybev17,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Brand name",1,Selected
+survey_res_main,whybev18,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Other",0,Not Selected
+survey_res_main,whybev18,"Which of the following factors were the most important reasons why you decided to purchase a full electric vehicle? 
+Other",1,Selected
+survey_res_main,altconcerns1,"How important was the California state vehicle rebate (up to $2,500) in making it possible for you to buy or lease your electric vehicle?",1,Extremely important
+survey_res_main,altconcerns1,"How important was the California state vehicle rebate (up to $2,500) in making it possible for you to buy or lease your electric vehicle?",2,Very important
+survey_res_main,altconcerns1,"How important was the California state vehicle rebate (up to $2,500) in making it possible for you to buy or lease your electric vehicle?",3,Moderately important
+survey_res_main,altconcerns1,"How important was the California state vehicle rebate (up to $2,500) in making it possible for you to buy or lease your electric vehicle?",4,Slightly important
+survey_res_main,altconcerns1,"How important was the California state vehicle rebate (up to $2,500) in making it possible for you to buy or lease your electric vehicle?",5,Not at all important
+survey_res_main,altconcerns1,"How important was the California state vehicle rebate (up to $2,500) in making it possible for you to buy or lease your electric vehicle?",6,Not applicable
+survey_res_main,altconcerns2,"How important were the federal tax incentives (up to $7,500) in making it possible for you to buy or lease your electric vehicle?",1,Extremely important
+survey_res_main,altconcerns2,"How important were the federal tax incentives (up to $7,500) in making it possible for you to buy or lease your electric vehicle?",2,Very important
+survey_res_main,altconcerns2,"How important were the federal tax incentives (up to $7,500) in making it possible for you to buy or lease your electric vehicle?",3,Moderately important
+survey_res_main,altconcerns2,"How important were the federal tax incentives (up to $7,500) in making it possible for you to buy or lease your electric vehicle?",4,Slightly important
+survey_res_main,altconcerns2,"How important were the federal tax incentives (up to $7,500) in making it possible for you to buy or lease your electric vehicle?",5,Not at all important
+survey_res_main,altconcerns2,"How important were the federal tax incentives (up to $7,500) in making it possible for you to buy or lease your electric vehicle?",6,Not applicable
+survey_res_main,altconcerns3,"How important were manufacturer or dealer incentives (e.g. low interest rate, cash back) in making it possible for you to buy or lease your electric vehicle?",1,Extremely important
+survey_res_main,altconcerns3,"How important were manufacturer or dealer incentives (e.g. low interest rate, cash back) in making it possible for you to buy or lease your electric vehicle?",2,Very important
+survey_res_main,altconcerns3,"How important were manufacturer or dealer incentives (e.g. low interest rate, cash back) in making it possible for you to buy or lease your electric vehicle?",3,Moderately important
+survey_res_main,altconcerns3,"How important were manufacturer or dealer incentives (e.g. low interest rate, cash back) in making it possible for you to buy or lease your electric vehicle?",4,Slightly important
+survey_res_main,altconcerns3,"How important were manufacturer or dealer incentives (e.g. low interest rate, cash back) in making it possible for you to buy or lease your electric vehicle?",5,Not at all important
+survey_res_main,altconcerns3,"How important were manufacturer or dealer incentives (e.g. low interest rate, cash back) in making it possible for you to buy or lease your electric vehicle?",6,Not applicable
+survey_res_main,altconcerns4,How important were attractive lease terms in making it possible for you to buy or lease your electric vehicle?,1,Extremely important
+survey_res_main,altconcerns4,How important were attractive lease terms in making it possible for you to buy or lease your electric vehicle?,2,Very important
+survey_res_main,altconcerns4,How important were attractive lease terms in making it possible for you to buy or lease your electric vehicle?,3,Moderately important
+survey_res_main,altconcerns4,How important were attractive lease terms in making it possible for you to buy or lease your electric vehicle?,4,Slightly important
+survey_res_main,altconcerns4,How important were attractive lease terms in making it possible for you to buy or lease your electric vehicle?,5,Not at all important
+survey_res_main,altconcerns4,How important were attractive lease terms in making it possible for you to buy or lease your electric vehicle?,6,Not applicable
+survey_res_main,altconcerns5,"How important were parking incentives (employer, business, or government) in making it possible for you to buy or lease your electric vehicle?",1,Extremely important
+survey_res_main,altconcerns5,"How important were parking incentives (employer, business, or government) in making it possible for you to buy or lease your electric vehicle?",2,Very important
+survey_res_main,altconcerns5,"How important were parking incentives (employer, business, or government) in making it possible for you to buy or lease your electric vehicle?",3,Moderately important
+survey_res_main,altconcerns5,"How important were parking incentives (employer, business, or government) in making it possible for you to buy or lease your electric vehicle?",4,Slightly important
+survey_res_main,altconcerns5,"How important were parking incentives (employer, business, or government) in making it possible for you to buy or lease your electric vehicle?",5,Not at all important
+survey_res_main,altconcerns5,"How important were parking incentives (employer, business, or government) in making it possible for you to buy or lease your electric vehicle?",6,Not applicable
+survey_res_main,altconcerns6,How important were special electricity rates for charging in making it possible for you to buy or lease your electric vehicle?,1,Extremely important
+survey_res_main,altconcerns6,How important were special electricity rates for charging in making it possible for you to buy or lease your electric vehicle?,2,Very important
+survey_res_main,altconcerns6,How important were special electricity rates for charging in making it possible for you to buy or lease your electric vehicle?,3,Moderately important
+survey_res_main,altconcerns6,How important were special electricity rates for charging in making it possible for you to buy or lease your electric vehicle?,4,Slightly important
+survey_res_main,altconcerns6,How important were special electricity rates for charging in making it possible for you to buy or lease your electric vehicle?,5,Not at all important
+survey_res_main,altconcerns6,How important were special electricity rates for charging in making it possible for you to buy or lease your electric vehicle?,6,Not applicable
+survey_res_main,altconcerns7,How important was having free charging locations available in making it possible for you to buy or lease your electric vehicle?,1,Extremely important
+survey_res_main,altconcerns7,How important was having free charging locations available in making it possible for you to buy or lease your electric vehicle?,2,Very important
+survey_res_main,altconcerns7,How important was having free charging locations available in making it possible for you to buy or lease your electric vehicle?,3,Moderately important
+survey_res_main,altconcerns7,How important was having free charging locations available in making it possible for you to buy or lease your electric vehicle?,4,Slightly important
+survey_res_main,altconcerns7,How important was having free charging locations available in making it possible for you to buy or lease your electric vehicle?,5,Not at all important
+survey_res_main,altconcerns7,How important was having free charging locations available in making it possible for you to buy or lease your electric vehicle?,6,Not applicable
+survey_res_main,altconcerns8,How important was the availability of carshare/car rental as part of purchase in making it possible for you to buy or lease your electric vehicle?,1,Extremely important
+survey_res_main,altconcerns8,How important was the availability of carshare/car rental as part of purchase in making it possible for you to buy or lease your electric vehicle?,2,Very important
+survey_res_main,altconcerns8,How important was the availability of carshare/car rental as part of purchase in making it possible for you to buy or lease your electric vehicle?,3,Moderately important
+survey_res_main,altconcerns8,How important was the availability of carshare/car rental as part of purchase in making it possible for you to buy or lease your electric vehicle?,4,Slightly important
+survey_res_main,altconcerns8,How important was the availability of carshare/car rental as part of purchase in making it possible for you to buy or lease your electric vehicle?,5,Not at all important
+survey_res_main,altconcerns8,How important was the availability of carshare/car rental as part of purchase in making it possible for you to buy or lease your electric vehicle?,6,Not applicable
+survey_res_main,altconcerns9,How important was HOV lane access in making it possible for you to buy or lease your electric vehicle?,1,Extremely important
+survey_res_main,altconcerns9,How important was HOV lane access in making it possible for you to buy or lease your electric vehicle?,2,Very important
+survey_res_main,altconcerns9,How important was HOV lane access in making it possible for you to buy or lease your electric vehicle?,3,Moderately important
+survey_res_main,altconcerns9,How important was HOV lane access in making it possible for you to buy or lease your electric vehicle?,4,Slightly important
+survey_res_main,altconcerns9,How important was HOV lane access in making it possible for you to buy or lease your electric vehicle?,5,Not at all important
+survey_res_main,altconcerns9,How important was HOV lane access in making it possible for you to buy or lease your electric vehicle?,6,Not applicable
+survey_res_main,homeinstall,Did you purchase home refueling equipment and/or upgrade your current house to be able to charge your vehicle?,1,Yes
+survey_res_main,homeinstall,Did you purchase home refueling equipment and/or upgrade your current house to be able to charge your vehicle?,2,No
+survey_res_main,pev_charger_type1,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Level 1: A standard (120V) household outlet",0,Not Selected
+survey_res_main,pev_charger_type1,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Level 1: A standard (120V) household outlet",1,Selected
+survey_res_main,pev_charger_type2,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Level 2: A 240V for faster charging outlet used",0,Not Selected
+survey_res_main,pev_charger_type2,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Level 2: A 240V for faster charging outlet used",1,Selected
+survey_res_main,pev_charger_type3,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Fast Charger: A high voltage charger found at public charging stations",0,Not Selected
+survey_res_main,pev_charger_type3,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Fast Charger: A high voltage charger found at public charging stations",1,Selected
+survey_res_main,pev_charger_type4,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Other",0,Not Selected
+survey_res_main,pev_charger_type4,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Other",1,Selected
+survey_res_main,pev_charger_type5,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Not sure",0,Not Selected
+survey_res_main,pev_charger_type5,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+Not sure",1,Selected
+survey_res_main,pev_charger_type6,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+None of these",0,Not Selected
+survey_res_main,pev_charger_type6,"In the past month, which of the following technologies have you used to charge your vehicle’s battery? 
+None of these",1,Selected
+survey_res_main,chargefreq,How often do you typically plug in your vehicle to charge?,1,Daily
+survey_res_main,chargefreq,How often do you typically plug in your vehicle to charge?,2,5 or 6 times a week
+survey_res_main,chargefreq,How often do you typically plug in your vehicle to charge?,3,3 or 4 times a week
+survey_res_main,chargefreq,How often do you typically plug in your vehicle to charge?,4,1 or 2 times a week
+survey_res_main,chargefreq,How often do you typically plug in your vehicle to charge?,5,Less than once a week
+survey_res_main,chargefreq,How often do you typically plug in your vehicle to charge?,6,Never
+survey_res_main,pev07_chargemorning1,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+6:00am - 7:00am",1,Home
+survey_res_main,pev07_chargemorning1,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+6:00am - 7:00am",2,Work
+survey_res_main,pev07_chargemorning1,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+6:00am - 7:00am",3,Public charging station
+survey_res_main,pev07_chargemorning1,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+6:00am - 7:00am",4,Other spot
+survey_res_main,pev07_chargemorning1,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+6:00am - 7:00am",5,Do not charge
+survey_res_main,pev07_chargemorning2,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+7:00am - 8:00am",1,Home
+survey_res_main,pev07_chargemorning2,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+7:00am - 8:00am",2,Work
+survey_res_main,pev07_chargemorning2,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+7:00am - 8:00am",3,Public charging station
+survey_res_main,pev07_chargemorning2,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+7:00am - 8:00am",4,Other spot
+survey_res_main,pev07_chargemorning2,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+7:00am - 8:00am",5,Do not charge
+survey_res_main,pev07_chargemorning3,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+8:00am - 9:00am",1,Home
+survey_res_main,pev07_chargemorning3,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+8:00am - 9:00am",2,Work
+survey_res_main,pev07_chargemorning3,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+8:00am - 9:00am",3,Public charging station
+survey_res_main,pev07_chargemorning3,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+8:00am - 9:00am",4,Other spot
+survey_res_main,pev07_chargemorning3,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+8:00am - 9:00am",5,Do not charge
+survey_res_main,pev07_chargemorning4,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+9:00am - 10:00am",1,Home
+survey_res_main,pev07_chargemorning4,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+9:00am - 10:00am",2,Work
+survey_res_main,pev07_chargemorning4,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+9:00am - 10:00am",3,Public charging station
+survey_res_main,pev07_chargemorning4,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+9:00am - 10:00am",4,Other spot
+survey_res_main,pev07_chargemorning4,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+9:00am - 10:00am",5,Do not charge
+survey_res_main,pev07_chargemorning5,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+10:00am - 11:00am",1,Home
+survey_res_main,pev07_chargemorning5,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+10:00am - 11:00am",2,Work
+survey_res_main,pev07_chargemorning5,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+10:00am - 11:00am",3,Public charging station
+survey_res_main,pev07_chargemorning5,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+10:00am - 11:00am",4,Other spot
+survey_res_main,pev07_chargemorning5,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+10:00am - 11:00am",5,Do not charge
+survey_res_main,pev07_chargemorning6,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+11:00am - 12:00pm",1,Home
+survey_res_main,pev07_chargemorning6,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+11:00am - 12:00pm",2,Work
+survey_res_main,pev07_chargemorning6,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+11:00am - 12:00pm",3,Public charging station
+survey_res_main,pev07_chargemorning6,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+11:00am - 12:00pm",4,Other spot
+survey_res_main,pev07_chargemorning6,"On a typical weekday morning, when and where do you typically charge your vehicle?: 
+11:00am - 12:00pm",5,Do not charge
+survey_res_main,pev08_chargeafternoon1,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+12:00pm - 1:00pm",1,Home
+survey_res_main,pev08_chargeafternoon1,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+12:00pm - 1:00pm",2,Work
+survey_res_main,pev08_chargeafternoon1,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+12:00pm - 1:00pm",3,Public charging station
+survey_res_main,pev08_chargeafternoon1,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+12:00pm - 1:00pm",4,Other spot
+survey_res_main,pev08_chargeafternoon1,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+12:00pm - 1:00pm",5,Do not charge
+survey_res_main,pev08_chargeafternoon2,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+1:00pm - 2:00pm",1,Home
+survey_res_main,pev08_chargeafternoon2,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+1:00pm - 2:00pm",2,Work
+survey_res_main,pev08_chargeafternoon2,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+1:00pm - 2:00pm",3,Public charging station
+survey_res_main,pev08_chargeafternoon2,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+1:00pm - 2:00pm",4,Other spot
+survey_res_main,pev08_chargeafternoon2,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+1:00pm - 2:00pm",5,Do not charge
+survey_res_main,pev08_chargeafternoon3,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+2:00pm - 3:00pm",1,Home
+survey_res_main,pev08_chargeafternoon3,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+2:00pm - 3:00pm",2,Work
+survey_res_main,pev08_chargeafternoon3,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+2:00pm - 3:00pm",3,Public charging station
+survey_res_main,pev08_chargeafternoon3,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+2:00pm - 3:00pm",4,Other spot
+survey_res_main,pev08_chargeafternoon3,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+2:00pm - 3:00pm",5,Do not charge
+survey_res_main,pev08_chargeafternoon4,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+3:00pm - 4:00pm",1,Home
+survey_res_main,pev08_chargeafternoon4,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+3:00pm - 4:00pm",2,Work
+survey_res_main,pev08_chargeafternoon4,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+3:00pm - 4:00pm",3,Public charging station
+survey_res_main,pev08_chargeafternoon4,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+3:00pm - 4:00pm",4,Other spot
+survey_res_main,pev08_chargeafternoon4,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+3:00pm - 4:00pm",5,Do not charge
+survey_res_main,pev08_chargeafternoon5,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+4:00pm - 5:00pm",1,Home
+survey_res_main,pev08_chargeafternoon5,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+4:00pm - 5:00pm",2,Work
+survey_res_main,pev08_chargeafternoon5,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+4:00pm - 5:00pm",3,Public charging station
+survey_res_main,pev08_chargeafternoon5,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+4:00pm - 5:00pm",4,Other spot
+survey_res_main,pev08_chargeafternoon5,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+4:00pm - 5:00pm",5,Do not charge
+survey_res_main,pev08_chargeafternoon6,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+5:00pm - 6:00pm",1,Home
+survey_res_main,pev08_chargeafternoon6,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+5:00pm - 6:00pm",2,Work
+survey_res_main,pev08_chargeafternoon6,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+5:00pm - 6:00pm",3,Public charging station
+survey_res_main,pev08_chargeafternoon6,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+5:00pm - 6:00pm",4,Other spot
+survey_res_main,pev08_chargeafternoon6,"On a typical weekday afternoon, when and where do you typically charge your vehicle?: 
+5:00pm - 6:00pm",5,Do not charge
+survey_res_main,pev09_chargeevening1,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+6:00pm - 7:00pm",1,Home
+survey_res_main,pev09_chargeevening1,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+6:00pm - 7:00pm",2,Work
+survey_res_main,pev09_chargeevening1,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+6:00pm - 7:00pm",3,Public charging station
+survey_res_main,pev09_chargeevening1,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+6:00pm - 7:00pm",4,Other spot
+survey_res_main,pev09_chargeevening1,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+6:00pm - 7:00pm",5,Do not charge
+survey_res_main,pev09_chargeevening2,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+7:00pm - 8:00pm",1,Home
+survey_res_main,pev09_chargeevening2,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+7:00pm - 8:00pm",2,Work
+survey_res_main,pev09_chargeevening2,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+7:00pm - 8:00pm",3,Public charging station
+survey_res_main,pev09_chargeevening2,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+7:00pm - 8:00pm",4,Other spot
+survey_res_main,pev09_chargeevening2,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+7:00pm - 8:00pm",5,Do not charge
+survey_res_main,pev09_chargeevening3,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+8:00pm - 9:00pm",1,Home
+survey_res_main,pev09_chargeevening3,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+8:00pm - 9:00pm",2,Work
+survey_res_main,pev09_chargeevening3,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+8:00pm - 9:00pm",3,Public charging station
+survey_res_main,pev09_chargeevening3,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+8:00pm - 9:00pm",4,Other spot
+survey_res_main,pev09_chargeevening3,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+8:00pm - 9:00pm",5,Do not charge
+survey_res_main,pev09_chargeevening4,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+9:00pm - 10:00pm",1,Home
+survey_res_main,pev09_chargeevening4,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+9:00pm - 10:00pm",2,Work
+survey_res_main,pev09_chargeevening4,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+9:00pm - 10:00pm",3,Public charging station
+survey_res_main,pev09_chargeevening4,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+9:00pm - 10:00pm",4,Other spot
+survey_res_main,pev09_chargeevening4,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+9:00pm - 10:00pm",5,Do not charge
+survey_res_main,pev09_chargeevening5,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+10:00pm - 11:00pm",1,Home
+survey_res_main,pev09_chargeevening5,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+10:00pm - 11:00pm",2,Work
+survey_res_main,pev09_chargeevening5,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+10:00pm - 11:00pm",3,Public charging station
+survey_res_main,pev09_chargeevening5,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+10:00pm - 11:00pm",4,Other spot
+survey_res_main,pev09_chargeevening5,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+10:00pm - 11:00pm",5,Do not charge
+survey_res_main,pev09_chargeevening6,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+11:00pm - 12:00am",1,Home
+survey_res_main,pev09_chargeevening6,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+11:00pm - 12:00am",2,Work
+survey_res_main,pev09_chargeevening6,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+11:00pm - 12:00am",3,Public charging station
+survey_res_main,pev09_chargeevening6,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+11:00pm - 12:00am",4,Other spot
+survey_res_main,pev09_chargeevening6,"On a typical weekday evening, when and where do you typically charge your vehicle?: 
+11:00pm - 12:00am",5,Do not charge
+survey_res_main,pev10_chargenight1,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+12:00am - 1:00am",1,Home
+survey_res_main,pev10_chargenight1,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+12:00am - 1:00am",2,Work
+survey_res_main,pev10_chargenight1,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+12:00am - 1:00am",3,Public charging station
+survey_res_main,pev10_chargenight1,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+12:00am - 1:00am",4,Other spot
+survey_res_main,pev10_chargenight1,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+12:00am - 1:00am",5,Do not charge
+survey_res_main,pev10_chargenight2,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+1:00am - 2:00am",1,Home
+survey_res_main,pev10_chargenight2,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+1:00am - 2:00am",2,Work
+survey_res_main,pev10_chargenight2,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+1:00am - 2:00am",3,Public charging station
+survey_res_main,pev10_chargenight2,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+1:00am - 2:00am",4,Other spot
+survey_res_main,pev10_chargenight2,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+1:00am - 2:00am",5,Do not charge
+survey_res_main,pev10_chargenight3,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+2:00am - 3:00am",1,Home
+survey_res_main,pev10_chargenight3,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+2:00am - 3:00am",2,Work
+survey_res_main,pev10_chargenight3,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+2:00am - 3:00am",3,Public charging station
+survey_res_main,pev10_chargenight3,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+2:00am - 3:00am",4,Other spot
+survey_res_main,pev10_chargenight3,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+2:00am - 3:00am",5,Do not charge
+survey_res_main,pev10_chargenight4,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+3:00am - 4:00am",1,Home
+survey_res_main,pev10_chargenight4,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+3:00am - 4:00am",2,Work
+survey_res_main,pev10_chargenight4,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+3:00am - 4:00am",3,Public charging station
+survey_res_main,pev10_chargenight4,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+3:00am - 4:00am",4,Other spot
+survey_res_main,pev10_chargenight4,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+3:00am - 4:00am",5,Do not charge
+survey_res_main,pev10_chargenight5,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+4:00am - 5:00am",1,Home
+survey_res_main,pev10_chargenight5,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+4:00am - 5:00am",2,Work
+survey_res_main,pev10_chargenight5,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+4:00am - 5:00am",3,Public charging station
+survey_res_main,pev10_chargenight5,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+4:00am - 5:00am",4,Other spot
+survey_res_main,pev10_chargenight5,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+4:00am - 5:00am",5,Do not charge
+survey_res_main,pev10_chargenight6,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+5:00am - 6:00am",1,Home
+survey_res_main,pev10_chargenight6,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+5:00am - 6:00am",2,Work
+survey_res_main,pev10_chargenight6,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+5:00am - 6:00am",3,Public charging station
+survey_res_main,pev10_chargenight6,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+5:00am - 6:00am",4,Other spot
+survey_res_main,pev10_chargenight6,"On a typical weekday night, when and where do you typically charge your vehicle?: 
+5:00am - 6:00am",5,Do not charge
+survey_res_main,pev11_variablerates,Does your electricity provider charge different rates for peak and non-peak usage?,1,Yes
+survey_res_main,pev11_variablerates,Does your electricity provider charge different rates for peak and non-peak usage?,2,No
+survey_res_main,pev11_variablerates,Does your electricity provider charge different rates for peak and non-peak usage?,3,I don't know
+survey_res_main,pev13_meter,Do you have a separate electricity meter to track your vehicle’s electricity usage?,1,Yes
+survey_res_main,pev13_meter,Do you have a separate electricity meter to track your vehicle’s electricity usage?,2,No
+survey_res_main,pev14_specialrate,Do you receive a special electric vehicle electricity rate from your provider?,1,"Yes, and it applies to all my electricity use"
+survey_res_main,pev14_specialrate,Do you receive a special electric vehicle electricity rate from your provider?,2,"Yes, but it applies only to what is used on a separate EV meter"
+survey_res_main,pev14_specialrate,Do you receive a special electric vehicle electricity rate from your provider?,3,No
+survey_res_main,recommend,How likely are you to recommend a {PHEV/Full Electric Vehicle} to a friend or family member?,1,Extremely likely
+survey_res_main,recommend,How likely are you to recommend a {PHEV/Full Electric Vehicle} to a friend or family member?,2,Likely
+survey_res_main,recommend,How likely are you to recommend a {PHEV/Full Electric Vehicle} to a friend or family member?,3,Neutral
+survey_res_main,recommend,How likely are you to recommend a {PHEV/Full Electric Vehicle} to a friend or family member?,4,Unlikely
+survey_res_main,recommend,How likely are you to recommend a {PHEV/Full Electric Vehicle} to a friend or family member?,5,Extremely Unlikely
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",1,This vehicle will be a replacement for my [first current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",2,This vehicle will be a replacement for my second current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",3,This vehicle will be a replacement for my third current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",4,This vehicle will be a replacement for my [fourth current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",5,This vehicle will be a replacement for my [fifth current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",6,This vehicle will be a replacement for my [sixth current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",7,This vehicle will be a replacement for my [seventh current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",8,This vehicle will be a replacement for my [eighth current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",9,This vehicle will be a replacement for my [ninth current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",10,This vehicle will be a replacement for my [10th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",11,This vehicle will be a replacement for my [11th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",12,This vehicle will be a replacement for my [12th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",13,This vehicle will be a replacement for my [13th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",14,This vehicle will be a replacement for my [14th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",15,This vehicle will be a replacement for my [15th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",16,This vehicle will be a replacement for my [16th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",17,This vehicle will be a replacement for my [17th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",18,This vehicle will be a replacement for my [18th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",19,This vehicle will be a replacement for my [19th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",20,This vehicle will be a replacement for my [20th current vehicle]
+survey_res_main,replacecatch,"At the beginning of the survey you indicated that you plan to purchase a vehicle. 
+Will this purchase be a replacement for a current vehicle or an additional vehicle for the household?",21,This vehicle will be an additional vehicle for my household
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,1,Subcompact Car
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,2,Compact Car
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,3,Midsize Car
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,4,Large Car
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,5,Sports Car
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,6,"Cross-over, small"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,7,"Cross-over, midsize"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,8,"SUV, small/midsize"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,9,"SUV, full"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,10,"Pick-up truck, small"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,11,"Pick-up truck, full-size/large"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,12,"Van, small"
+survey_res_main,rc2_replace_type,What type of vehicle do you expect to purchase or lease as a replacement?,13,"Van, full-size/large"
+survey_res_main,rc2_replace_newused,Do you expect the replacement vehicle to be new or used?,1,New
+survey_res_main,rc2_replace_newused,Do you expect the replacement vehicle to be new or used?,2,"Used, 1 to 3 years old"
+survey_res_main,rc2_replace_newused,Do you expect the replacement vehicle to be new or used?,3,"Used, 3 to 5 years old"
+survey_res_main,rc2_replace_newused,Do you expect the replacement vehicle to be new or used?,4,"Used, 5 to 10 years old"
+survey_res_main,rc2_replace_newused,Do you expect the replacement vehicle to be new or used?,5,"Used, 10+ years old"
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,1,Gasoline
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,2,Hybrid (Gasoline)
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,3,Plug
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,4,Gasoline
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,5,Diesel
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,7,Compressed Natural Gas (CNG) vehicle
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,9,Full Electric vehicle
+survey_res_main,rc2_replace_powertrain,What type of engine/fuel type do you expect the replacement vehicle to have?,10,Hydrogen vehicle
+survey_res_main,replacesoon,Which vehicle do you expect to replace first?,1,[first vehicle listed]
+survey_res_main,replacesoon,Which vehicle do you expect to replace first?,2,[second vehicle listed]
+survey_res_main,replacesoon,Which vehicle do you expect to replace first?,3,[third vehicle listed]
+survey_res_main,replacesoon,Which vehicle do you expect to replace first?,4,[fourth vehicle listed]
+survey_res_main,replacesoon,Which vehicle do you expect to replace first?,5,[fifth vehicle listed]
+survey_res_main,replace_make,What make do you expect this vehicle to be?,1,Acura
+survey_res_main,replace_make,What make do you expect this vehicle to be?,2,Aston Martin
+survey_res_main,replace_make,What make do you expect this vehicle to be?,3,Audi
+survey_res_main,replace_make,What make do you expect this vehicle to be?,4,Bentley
+survey_res_main,replace_make,What make do you expect this vehicle to be?,5,BMW
+survey_res_main,replace_make,What make do you expect this vehicle to be?,6,Buick
+survey_res_main,replace_make,What make do you expect this vehicle to be?,7,Cadillac
+survey_res_main,replace_make,What make do you expect this vehicle to be?,8,Chevrolet
+survey_res_main,replace_make,What make do you expect this vehicle to be?,9,Chrysler
+survey_res_main,replace_make,What make do you expect this vehicle to be?,10,Dodge
+survey_res_main,replace_make,What make do you expect this vehicle to be?,11,Ferrari
+survey_res_main,replace_make,What make do you expect this vehicle to be?,12,Fiat
+survey_res_main,replace_make,What make do you expect this vehicle to be?,13,Ford
+survey_res_main,replace_make,What make do you expect this vehicle to be?,14,GMC
+survey_res_main,replace_make,What make do you expect this vehicle to be?,15,Honda
+survey_res_main,replace_make,What make do you expect this vehicle to be?,16,HUMMER
+survey_res_main,replace_make,What make do you expect this vehicle to be?,17,Hyundai
+survey_res_main,replace_make,What make do you expect this vehicle to be?,18,Infiniti
+survey_res_main,replace_make,What make do you expect this vehicle to be?,19,Isuzu
+survey_res_main,replace_make,What make do you expect this vehicle to be?,20,Jaguar
+survey_res_main,replace_make,What make do you expect this vehicle to be?,21,Jeep
+survey_res_main,replace_make,What make do you expect this vehicle to be?,22,Kia
+survey_res_main,replace_make,What make do you expect this vehicle to be?,23,Lamborghini
+survey_res_main,replace_make,What make do you expect this vehicle to be?,24,Land Rover
+survey_res_main,replace_make,What make do you expect this vehicle to be?,25,Lexus
+survey_res_main,replace_make,What make do you expect this vehicle to be?,26,Lincoln
+survey_res_main,replace_make,What make do you expect this vehicle to be?,27,Lotus
+survey_res_main,replace_make,What make do you expect this vehicle to be?,28,Maserati
+survey_res_main,replace_make,What make do you expect this vehicle to be?,29,Maybach
+survey_res_main,replace_make,What make do you expect this vehicle to be?,30,Mazda
+survey_res_main,replace_make,What make do you expect this vehicle to be?,31,Mercedes
+survey_res_main,replace_make,What make do you expect this vehicle to be?,32,Mercury
+survey_res_main,replace_make,What make do you expect this vehicle to be?,33,MINI
+survey_res_main,replace_make,What make do you expect this vehicle to be?,34,Mitsubishi
+survey_res_main,replace_make,What make do you expect this vehicle to be?,35,Nissan
+survey_res_main,replace_make,What make do you expect this vehicle to be?,36,Oldsmobile
+survey_res_main,replace_make,What make do you expect this vehicle to be?,37,Panoz
+survey_res_main,replace_make,What make do you expect this vehicle to be?,38,Pontiac
+survey_res_main,replace_make,What make do you expect this vehicle to be?,39,Porsche
+survey_res_main,replace_make,What make do you expect this vehicle to be?,41,Rolls
+survey_res_main,replace_make,What make do you expect this vehicle to be?,42,Saab
+survey_res_main,replace_make,What make do you expect this vehicle to be?,43,Saturn
+survey_res_main,replace_make,What make do you expect this vehicle to be?,44,Scion
+survey_res_main,replace_make,What make do you expect this vehicle to be?,45,Smart
+survey_res_main,replace_make,What make do you expect this vehicle to be?,46,Subaru
+survey_res_main,replace_make,What make do you expect this vehicle to be?,47,Suzuki
+survey_res_main,replace_make,What make do you expect this vehicle to be?,48,Toyota
+survey_res_main,replace_make,What make do you expect this vehicle to be?,49,Tesla
+survey_res_main,replace_make,What make do you expect this vehicle to be?,50,Vollkswagen
+survey_res_main,replace_make,What make do you expect this vehicle to be?,51,Volvo
+survey_res_main,replace_make,What make do you expect this vehicle to be?,52,Other
+survey_res_main,replace_make,What make do you expect this vehicle to be?,53,Don't know
+survey_res_main,home_fuel,Do you expect to purchase home refueling equipment and/or upgrade your current house to be able to refuel this vehicle?,1,Yes
+survey_res_main,home_fuel,Do you expect to purchase home refueling equipment and/or upgrade your current house to be able to refuel this vehicle?,2,No
+survey_res_main,replace_primary_dr,Who do you expect will be the primary driver of this vehicle?,1,I will be the primary driver
+survey_res_main,replace_primary_dr,Who do you expect will be the primary driver of this vehicle?,2,[second household member listed] will be the primary driver
+survey_res_main,replace_primary_dr,Who do you expect will be the primary driver of this vehicle?,3,[third household member listed] will be the primary driver
+survey_res_main,replace_primary_dr,Who do you expect will be the primary driver of this vehicle?,4,[fourth household member listed] will be the primary driver
+survey_res_main,replace_primary_dr,Who do you expect will be the primary driver of this vehicle?,5,[fifth household member listed] will be the primary driver
+survey_res_main,futureaddition,"Do you anticipate purchasing or leasing an ADDITIONAL car, SUV, van, or pick-up truck for your household? (not including vehicles supplied by employers)",1,"Yes, within the next year"
+survey_res_main,futureaddition,"Do you anticipate purchasing or leasing an ADDITIONAL car, SUV, van, or pick-up truck for your household? (not including vehicles supplied by employers)",2,"Yes, in 1 to 2 years"
+survey_res_main,futureaddition,"Do you anticipate purchasing or leasing an ADDITIONAL car, SUV, van, or pick-up truck for your household? (not including vehicles supplied by employers)",3,"Yes, in 3 to 5 years"
+survey_res_main,futureaddition,"Do you anticipate purchasing or leasing an ADDITIONAL car, SUV, van, or pick-up truck for your household? (not including vehicles supplied by employers)",4,"Yes, in 6 to 9 years"
+survey_res_main,futureaddition,"Do you anticipate purchasing or leasing an ADDITIONAL car, SUV, van, or pick-up truck for your household? (not including vehicles supplied by employers)",5,"Yes, in 10 or more years"
+survey_res_main,futureaddition,"Do you anticipate purchasing or leasing an ADDITIONAL car, SUV, van, or pick-up truck for your household? (not including vehicles supplied by employers)",6,"No, I never plan to add another vehicle to my household"
+survey_res_main,futureadditioncatch,"When do you anticipate purchasing or leasing the ADDITIONAL car, SUV, van, or pick-up truck for your household?",1,In less than 1 year
+survey_res_main,futureadditioncatch,"When do you anticipate purchasing or leasing the ADDITIONAL car, SUV, van, or pick-up truck for your household?",2,In 1 to 3 years
+survey_res_main,futureadditioncatch,"When do you anticipate purchasing or leasing the ADDITIONAL car, SUV, van, or pick-up truck for your household?",3,In 3 to 5 years
+survey_res_main,futureadditioncatch,"When do you anticipate purchasing or leasing the ADDITIONAL car, SUV, van, or pick-up truck for your household?",4,In 5 to 10 years
+survey_res_main,futureadditioncatch,"When do you anticipate purchasing or leasing the ADDITIONAL car, SUV, van, or pick-up truck for your household?",5,In more than 10 years
+survey_res_main,additionalveh,"In total, how many vehicles do you plan to add to your household over the next 10 years?",1,1 vehicle
+survey_res_main,additionalveh,"In total, how many vehicles do you plan to add to your household over the next 10 years?",2,2 vehicles
+survey_res_main,additionalveh,"In total, how many vehicles do you plan to add to your household over the next 10 years?",3,3 vehicles
+survey_res_main,additionalveh,"In total, how many vehicles do you plan to add to your household over the next 10 years?",4,4 vehicles
+survey_res_main,additionalveh,"In total, how many vehicles do you plan to add to your household over the next 10 years?",5,5 or more vehicles
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,1,Subcompact Car
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,2,Compact Car
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,3,Midsize Car
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,4,Large Car
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,5,Sports Car
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,6,"Cross-over, small"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,7,"Cross-over, midsize"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,8,"SUV, small/midsize"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,9,"SUV, full-size/large"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,10,"Pick-up truck, small"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,11,"Pick-up truck, full-size/large"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,12,"Van, small"
+survey_res_main,additional_type,What type of vehicle do you expect to add to your household?,13,"Van, full-size/large"
+survey_res_main,additional_newused,Do you expect this vehicle to be new or used?,1,New
+survey_res_main,additional_newused,Do you expect this vehicle to be new or used?,2,"Used, 1 to 3 years old"
+survey_res_main,additional_newused,Do you expect this vehicle to be new or used?,3,"Used, 3 to 5 years old"
+survey_res_main,additional_newused,Do you expect this vehicle to be new or used?,4,"Used, 5 to 10 years old"
+survey_res_main,additional_newused,Do you expect this vehicle to be new or used?,5,"Used, more than 10 years old"
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,1,Gasoline
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,2,Hybrid (Gasoline)
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,3,Plug
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,4,Gasoline
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,5,Diesel
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,7,Compressed Natural Gas (CNG) vehicle
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,9,Full Electric vehicle
+survey_res_main,additional_powertrain,What type of engine/fuel type do you expect this vehicle to have?,10,Hydrogen vehicle
+survey_res_main,additional_make,What make do you expect this vehicle to be?,1,Acura
+survey_res_main,additional_make,What make do you expect this vehicle to be?,2,Aston Martin
+survey_res_main,additional_make,What make do you expect this vehicle to be?,3,Audi
+survey_res_main,additional_make,What make do you expect this vehicle to be?,4,Bentley
+survey_res_main,additional_make,What make do you expect this vehicle to be?,5,BMW
+survey_res_main,additional_make,What make do you expect this vehicle to be?,6,Buick
+survey_res_main,additional_make,What make do you expect this vehicle to be?,7,Cadillac
+survey_res_main,additional_make,What make do you expect this vehicle to be?,8,Chevrolet
+survey_res_main,additional_make,What make do you expect this vehicle to be?,9,Chrysler
+survey_res_main,additional_make,What make do you expect this vehicle to be?,10,Dodge
+survey_res_main,additional_make,What make do you expect this vehicle to be?,11,Ferrari
+survey_res_main,additional_make,What make do you expect this vehicle to be?,12,Fiat
+survey_res_main,additional_make,What make do you expect this vehicle to be?,13,Ford
+survey_res_main,additional_make,What make do you expect this vehicle to be?,14,GMC
+survey_res_main,additional_make,What make do you expect this vehicle to be?,15,Honda
+survey_res_main,additional_make,What make do you expect this vehicle to be?,16,HUMMER
+survey_res_main,additional_make,What make do you expect this vehicle to be?,17,Hyundai
+survey_res_main,additional_make,What make do you expect this vehicle to be?,18,Infiniti
+survey_res_main,additional_make,What make do you expect this vehicle to be?,19,Isuzu
+survey_res_main,additional_make,What make do you expect this vehicle to be?,20,Jaguar
+survey_res_main,additional_make,What make do you expect this vehicle to be?,21,Jeep
+survey_res_main,additional_make,What make do you expect this vehicle to be?,22,Kia
+survey_res_main,additional_make,What make do you expect this vehicle to be?,23,Lamborghini
+survey_res_main,additional_make,What make do you expect this vehicle to be?,24,Land Rover
+survey_res_main,additional_make,What make do you expect this vehicle to be?,25,Lexus
+survey_res_main,additional_make,What make do you expect this vehicle to be?,26,Lincoln
+survey_res_main,additional_make,What make do you expect this vehicle to be?,27,Lotus
+survey_res_main,additional_make,What make do you expect this vehicle to be?,28,Maserati
+survey_res_main,additional_make,What make do you expect this vehicle to be?,29,Maybach
+survey_res_main,additional_make,What make do you expect this vehicle to be?,30,Mazda
+survey_res_main,additional_make,What make do you expect this vehicle to be?,31,Mercedes
+survey_res_main,additional_make,What make do you expect this vehicle to be?,32,Mercury
+survey_res_main,additional_make,What make do you expect this vehicle to be?,33,MINI
+survey_res_main,additional_make,What make do you expect this vehicle to be?,34,Mitsubishi
+survey_res_main,additional_make,What make do you expect this vehicle to be?,35,Nissan
+survey_res_main,additional_make,What make do you expect this vehicle to be?,36,Oldsmobile
+survey_res_main,additional_make,What make do you expect this vehicle to be?,37,Panoz
+survey_res_main,additional_make,What make do you expect this vehicle to be?,38,Pontiac
+survey_res_main,additional_make,What make do you expect this vehicle to be?,39,Porsche
+survey_res_main,additional_make,What make do you expect this vehicle to be?,41,Rolls
+survey_res_main,additional_make,What make do you expect this vehicle to be?,42,Saab
+survey_res_main,additional_make,What make do you expect this vehicle to be?,43,Saturn
+survey_res_main,additional_make,What make do you expect this vehicle to be?,44,Scion
+survey_res_main,additional_make,What make do you expect this vehicle to be?,45,Smart
+survey_res_main,additional_make,What make do you expect this vehicle to be?,46,Subaru
+survey_res_main,additional_make,What make do you expect this vehicle to be?,47,Suzuki
+survey_res_main,additional_make,What make do you expect this vehicle to be?,48,Toyota
+survey_res_main,additional_make,What make do you expect this vehicle to be?,49,Tesla
+survey_res_main,additional_make,What make do you expect this vehicle to be?,50,Vollkswagen
+survey_res_main,additional_make,What make do you expect this vehicle to be?,51,Volvo
+survey_res_main,additional_make,What make do you expect this vehicle to be?,52,Other
+survey_res_main,additional_make,What make do you expect this vehicle to be?,53,Don't know
+survey_res_main,additionalhome_fuel,Do you expect to purchase home refueling equipment and/or upgrade your current house to be able to refuel this vehicle?,1,Yes
+survey_res_main,additionalhome_fuel,Do you expect to purchase home refueling equipment and/or upgrade your current house to be able to refuel this vehicle?,2,No
+survey_res_main,additional_primary_dr,Who do you expect will be the primary driver of this vehicle?,1,I will be the primary driver
+survey_res_main,additional_primary_dr,Who do you expect will be the primary driver of this vehicle?,2,[second household member listed] will be the primary driver
+survey_res_main,additional_primary_dr,Who do you expect will be the primary driver of this vehicle?,3,[third household member listed] will be the primary driver
+survey_res_main,additional_primary_dr,Who do you expect will be the primary driver of this vehicle?,4,[fourth household member listed] will be the primary driver
+survey_res_main,additional_primary_dr,Who do you expect will be the primary driver of this vehicle?,5,[fifth household member listed] will be the primary driver
+survey_res_main,autoagree1,"I would consider purchasing a vehicle that has automated driver assistance capabilities, such as smart/adaptive cruise control, self-parking, vehicle to vehicle communication, etc.",1,Strongly agree
+survey_res_main,autoagree1,"I would consider purchasing a vehicle that has automated driver assistance capabilities, such as smart/adaptive cruise control, self-parking, vehicle to vehicle communication, etc.",2,Moderately agree
+survey_res_main,autoagree1,"I would consider purchasing a vehicle that has automated driver assistance capabilities, such as smart/adaptive cruise control, self-parking, vehicle to vehicle communication, etc.",3,Neither agree nor disagree
+survey_res_main,autoagree1,"I would consider purchasing a vehicle that has automated driver assistance capabilities, such as smart/adaptive cruise control, self-parking, vehicle to vehicle communication, etc.",4,Moderately disagree
+survey_res_main,autoagree1,"I would consider purchasing a vehicle that has automated driver assistance capabilities, such as smart/adaptive cruise control, self-parking, vehicle to vehicle communication, etc.",5,Strongly disagree
+survey_res_main,autoagree2,"I would consider purchasing a vehicle that is fully self-driving, (i.e. the vehicle drives itself)",1,Strongly agree
+survey_res_main,autoagree2,"I would consider purchasing a vehicle that is fully self-driving, (i.e. the vehicle drives itself)",2,Moderately agree
+survey_res_main,autoagree2,"I would consider purchasing a vehicle that is fully self-driving, (i.e. the vehicle drives itself)",3,Neither agree nor disagree
+survey_res_main,autoagree2,"I would consider purchasing a vehicle that is fully self-driving, (i.e. the vehicle drives itself)",4,Moderately disagree
+survey_res_main,autoagree2,"I would consider purchasing a vehicle that is fully self-driving, (i.e. the vehicle drives itself)",5,Strongly disagree
+survey_res_main,autoagree3,Self-driving vehicles will become successful mainstream vehicles in the future,1,Strongly agree
+survey_res_main,autoagree3,Self-driving vehicles will become successful mainstream vehicles in the future,2,Moderately agree
+survey_res_main,autoagree3,Self-driving vehicles will become successful mainstream vehicles in the future,3,Neither agree nor disagree
+survey_res_main,autoagree3,Self-driving vehicles will become successful mainstream vehicles in the future,4,Moderately disagree
+survey_res_main,autoagree3,Self-driving vehicles will become successful mainstream vehicles in the future,5,Strongly disagree
+survey_res_main,autoagree4,I am concerned about the safety of self-driving vehicles,1,Strongly agree
+survey_res_main,autoagree4,I am concerned about the safety of self-driving vehicles,2,Moderately agree
+survey_res_main,autoagree4,I am concerned about the safety of self-driving vehicles,3,Neither agree nor disagree
+survey_res_main,autoagree4,I am concerned about the safety of self-driving vehicles,4,Moderately disagree
+survey_res_main,autoagree4,I am concerned about the safety of self-driving vehicles,5,Strongly disagree
+survey_res_main,consideralt1,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Hybrid",0,Not Selected
+survey_res_main,consideralt1,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Hybrid",1,Selected
+survey_res_main,consideralt2,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Plug-In Hybrid",0,Not Selected
+survey_res_main,consideralt2,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Plug-In Hybrid",1,Selected
+survey_res_main,consideralt3,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Diesel",0,Not Selected
+survey_res_main,consideralt3,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Diesel",1,Selected
+survey_res_main,consideralt4,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Natural Gas (CNG or LNG)",0,Not Selected
+survey_res_main,consideralt4,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Natural Gas (CNG or LNG)",1,Selected
+survey_res_main,consideralt5,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Propane (LPG)",0,Not Selected
+survey_res_main,consideralt5,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Propane (LPG)",1,Selected
+survey_res_main,consideralt6,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Fuel Cell (Hydrogen)",0,Not Selected
+survey_res_main,consideralt6,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Fuel Cell (Hydrogen)",1,Selected
+survey_res_main,consideralt7,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Full Battery Electric",0,Not Selected
+survey_res_main,consideralt7,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+Full Battery Electric",1,Selected
+survey_res_main,consideralt8,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+None of the above",0,Not Selected
+survey_res_main,consideralt8,"Have you purchased or considered purchasing any of the following vehicle types for your household? 
+None of the above",1,Selected
+survey_res_main,bevconcerns1,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Too expensive",0,Not Selected
+survey_res_main,bevconcerns1,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Too expensive",1,Selected
+survey_res_main,bevconcerns2,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited driving range on the electric battery",0,Not Selected
+survey_res_main,bevconcerns2,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited driving range on the electric battery",1,Selected
+survey_res_main,bevconcerns3,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited seating capacity",0,Not Selected
+survey_res_main,bevconcerns3,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited seating capacity",1,Selected
+survey_res_main,bevconcerns4,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited hauling capacity",0,Not Selected
+survey_res_main,bevconcerns4,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited hauling capacity",1,Selected
+survey_res_main,bevconcerns5,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited vehicle body/styling of vehicle",0,Not Selected
+survey_res_main,bevconcerns5,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Limited vehicle body/styling of vehicle",1,Selected
+survey_res_main,bevconcerns6,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Battery life uncertainty",0,Not Selected
+survey_res_main,bevconcerns6,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Battery life uncertainty",1,Selected
+survey_res_main,bevconcerns7,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Uncertain gasoline/electricity price",0,Not Selected
+survey_res_main,bevconcerns7,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Uncertain gasoline/electricity price",1,Selected
+survey_res_main,bevconcerns8,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Cost of installing charging equipment for your home",0,Not Selected
+survey_res_main,bevconcerns8,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Cost of installing charging equipment for your home",1,Selected
+survey_res_main,bevconcerns9,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Lack of charging facilities",0,Not Selected
+survey_res_main,bevconcerns9,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Lack of charging facilities",1,Selected
+survey_res_main,bevconcerns10,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Time to charge the battery",0,Not Selected
+survey_res_main,bevconcerns10,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Time to charge the battery",1,Selected
+survey_res_main,bevconcerns11,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Uncertain resale value",0,Not Selected
+survey_res_main,bevconcerns11,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Uncertain resale value",1,Selected
+survey_res_main,bevconcerns12,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Technology is still too new/unreliable",0,Not Selected
+survey_res_main,bevconcerns12,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Technology is still too new/unreliable",1,Selected
+survey_res_main,bevconcerns13,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Fear of getting stranded",0,Not Selected
+survey_res_main,bevconcerns13,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Fear of getting stranded",1,Selected
+survey_res_main,bevconcerns14,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Other",0,Not Selected
+survey_res_main,bevconcerns14,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+Other",1,Selected
+survey_res_main,bevconcerns15,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+I don’t have any concerns",0,Not Selected
+survey_res_main,bevconcerns15,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+I don’t have any concerns",1,Selected
+survey_res_main,bevconcerns16,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+I don’t know enough about this technology",0,Not Selected
+survey_res_main,bevconcerns16,"What are your top five concerns about purchasing/leasing an electric only vehicle? 
+I don’t know enough about this technology",1,Selected
+survey_res_main,phevconcerns1,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle?  
+Too expensive",0,Not Selected
+survey_res_main,phevconcerns1,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle?  
+Too expensive",1,Selected
+survey_res_main,phevconcerns2,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited driving range on the electric battery",0,Not Selected
+survey_res_main,phevconcerns2,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited driving range on the electric battery",1,Selected
+survey_res_main,phevconcerns3,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited seating capacity",0,Not Selected
+survey_res_main,phevconcerns3,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited seating capacity",1,Selected
+survey_res_main,phevconcerns4,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited hauling capacity",0,Not Selected
+survey_res_main,phevconcerns4,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited hauling capacity",1,Selected
+survey_res_main,phevconcerns5,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited vehicle body/styling of vehicle",0,Not Selected
+survey_res_main,phevconcerns5,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Limited vehicle body/styling of vehicle",1,Selected
+survey_res_main,phevconcerns6,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Battery life uncertainty",0,Not Selected
+survey_res_main,phevconcerns6,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Battery life uncertainty",1,Selected
+survey_res_main,phevconcerns7,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Uncertain gasoline/electricity price",0,Not Selected
+survey_res_main,phevconcerns7,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Uncertain gasoline/electricity price",1,Selected
+survey_res_main,phevconcerns8,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Cost of installing charging equipment for your home",0,Not Selected
+survey_res_main,phevconcerns8,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Cost of installing charging equipment for your home",1,Selected
+survey_res_main,phevconcerns9,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Lack of charging infrastructure outside your home",0,Not Selected
+survey_res_main,phevconcerns9,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Lack of charging infrastructure outside your home",1,Selected
+survey_res_main,phevconcerns10,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Time to charge the battery",0,Not Selected
+survey_res_main,phevconcerns10,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Time to charge the battery",1,Selected
+survey_res_main,phevconcerns11,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Uncertain resale value",0,Not Selected
+survey_res_main,phevconcerns11,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Uncertain resale value",1,Selected
+survey_res_main,phevconcerns12,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Technology is still too new/unreliable",0,Not Selected
+survey_res_main,phevconcerns12,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Technology is still too new/unreliable",1,Selected
+survey_res_main,phevconcerns13,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Other",0,Not Selected
+survey_res_main,phevconcerns13,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+Other",1,Selected
+survey_res_main,phevconcerns14,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+I don't have any concerns",0,Not Selected
+survey_res_main,phevconcerns14,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+I don't have any concerns",1,Selected
+survey_res_main,phevconcerns15,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+I don't know enough about this technology",0,Not Selected
+survey_res_main,phevconcerns15,"What are your top five concerns about purchasing/leasing a plug-in hybrid electric vehicle? 
+I don't know enough about this technology",1,Selected
+survey_res_main,fcvconcerns1,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Too expensive",0,Not Selected
+survey_res_main,fcvconcerns1,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Too expensive",1,Selected
+survey_res_main,fcvconcerns2,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Limited seating capacity",0,Not Selected
+survey_res_main,fcvconcerns2,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Limited seating capacity",1,Selected
+survey_res_main,fcvconcerns3,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Limited hauling capacity",0,Not Selected
+survey_res_main,fcvconcerns3,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Limited hauling capacity",1,Selected
+survey_res_main,fcvconcerns4,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Limited vehicle body/styling of vehicle",0,Not Selected
+survey_res_main,fcvconcerns4,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Limited vehicle body/styling of vehicle",1,Selected
+survey_res_main,fcvconcerns5,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Safety of hydrogen tank",0,Not Selected
+survey_res_main,fcvconcerns5,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Safety of hydrogen tank",1,Selected
+survey_res_main,fcvconcerns6,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Uncertain hydrogen price",0,Not Selected
+survey_res_main,fcvconcerns6,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Uncertain hydrogen price",1,Selected
+survey_res_main,fcvconcerns7,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Cost of installing fueling equipment for your home",0,Not Selected
+survey_res_main,fcvconcerns7,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Cost of installing fueling equipment for your home",1,Selected
+survey_res_main,fcvconcerns8,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Lack of fueling infrastructure outside your home",0,Not Selected
+survey_res_main,fcvconcerns8,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Lack of fueling infrastructure outside your home",1,Selected
+survey_res_main,fcvconcerns9,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Uncertain resale value for vehicle",0,Not Selected
+survey_res_main,fcvconcerns9,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Uncertain resale value for vehicle",1,Selected
+survey_res_main,fcvconcerns10,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Technology is still too new/unreliable",0,Not Selected
+survey_res_main,fcvconcerns10,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Technology is still too new/unreliable",1,Selected
+survey_res_main,fcvconcerns11,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Other",0,Not Selected
+survey_res_main,fcvconcerns11,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+Other",1,Selected
+survey_res_main,fcvconcerns12,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+I don't have any concerns",0,Not Selected
+survey_res_main,fcvconcerns12,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+I don't have any concerns",1,Selected
+survey_res_main,fcvconcerns13,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+I don’t know enough about this technology",0,Not Selected
+survey_res_main,fcvconcerns13,"What are your top five concerns about purchasing/leasing a hydrogen fuel cell vehicle? 
+I don’t know enough about this technology",1,Selected
+survey_res_main,topattributes1,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Vehicle price",0,Not Selected
+survey_res_main,topattributes1,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Vehicle price",1,Selected
+survey_res_main,topattributes2,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+MPG/Fuel economy",0,Not Selected
+survey_res_main,topattributes2,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+MPG/Fuel economy",1,Selected
+survey_res_main,topattributes3,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Acceleration",0,Not Selected
+survey_res_main,topattributes3,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Acceleration",1,Selected
+survey_res_main,topattributes4,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Maintenance cost",0,Not Selected
+survey_res_main,topattributes4,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Maintenance cost",1,Selected
+survey_res_main,topattributes5,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Fuel cost",0,Not Selected
+survey_res_main,topattributes5,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Fuel cost",1,Selected
+survey_res_main,topattributes6,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Range",0,Not Selected
+survey_res_main,topattributes6,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Range",1,Selected
+survey_res_main,topattributes7,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Towing capacity",0,Not Selected
+survey_res_main,topattributes7,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Towing capacity",1,Selected
+survey_res_main,topattributes8,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Cargo capacity",0,Not Selected
+survey_res_main,topattributes8,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Cargo capacity",1,Selected
+survey_res_main,topattributes9,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Seating capacity",0,Not Selected
+survey_res_main,topattributes9,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Seating capacity",1,Selected
+survey_res_main,topattributes10,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Reliability",0,Not Selected
+survey_res_main,topattributes10,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Reliability",1,Selected
+survey_res_main,topattributes11,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Fuel availability",0,Not Selected
+survey_res_main,topattributes11,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Fuel availability",1,Selected
+survey_res_main,topattributes12,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Refueling time",0,Not Selected
+survey_res_main,topattributes12,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Refueling time",1,Selected
+survey_res_main,topattributes13,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Horsepower",0,Not Selected
+survey_res_main,topattributes13,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Horsepower",1,Selected
+survey_res_main,topattributes14,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Warranty",0,Not Selected
+survey_res_main,topattributes14,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Warranty",1,Selected
+survey_res_main,topattributes15,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Brand/Vehicle make",0,Not Selected
+survey_res_main,topattributes15,"When selecting a vehicle to buy or lease, what do you consider to be the top 3 attributes? 
+Brand/Vehicle make",1,Selected
+survey_res_main,carshare,What is your level of participation in car-share programs where you can rent/access a car for short periods of time?,1,I currently participate
+survey_res_main,carshare,What is your level of participation in car-share programs where you can rent/access a car for short periods of time?,2,"I have participated in the past, but am not currently participating"
+survey_res_main,carshare,What is your level of participation in car-share programs where you can rent/access a car for short periods of time?,3,"I have not participated in the past, but I plan to participate"
+survey_res_main,carshare,What is your level of participation in car-share programs where you can rent/access a car for short periods of time?,4,I might participate someday
+survey_res_main,carshare,What is your level of participation in car-share programs where you can rent/access a car for short periods of time?,5,I am not interested in participating
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,1,I am not aware of these programs
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,2,It’s not available in my area
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,3,Too expensive
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,4,Not convenient
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,5,Public transit already meets my needs
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,6,I already have access to a vehicle when I need one
+survey_res_main,whynocarshare,What is the primary reason you are not currently participating in a car-share?,7,Other
+survey_res_main,rideshare,"What is your level of participation in ride sharing and ride share programs, such as carpools, vanpools, Uber, Lyft, Sidecar, etc.?",1,I currently participate
+survey_res_main,rideshare,"What is your level of participation in ride sharing and ride share programs, such as carpools, vanpools, Uber, Lyft, Sidecar, etc.?",2,"I have participated in the past, but am not currently participating"
+survey_res_main,rideshare,"What is your level of participation in ride sharing and ride share programs, such as carpools, vanpools, Uber, Lyft, Sidecar, etc.?",3,"I have not participated in the past, but I plan to participate"
+survey_res_main,rideshare,"What is your level of participation in ride sharing and ride share programs, such as carpools, vanpools, Uber, Lyft, Sidecar, etc.?",4,I might participate someday
+survey_res_main,rideshare,"What is your level of participation in ride sharing and ride share programs, such as carpools, vanpools, Uber, Lyft, Sidecar, etc.?",5,I am not interested in participating
+survey_res_main,ridesharewhy1,"When do you typically use ride share? 
+Travel or special events (e.g. concerts, sporting events, etc.)",0,Not Selected
+survey_res_main,ridesharewhy1,"When do you typically use ride share? 
+Travel or special events (e.g. concerts, sporting events, etc.)",1,Selected
+survey_res_main,ridesharewhy2,"When do you typically use ride share? 
+Everyday commuting trips (e.g. trips to work, school, errands, etc.)",0,Not Selected
+survey_res_main,ridesharewhy2,"When do you typically use ride share? 
+Everyday commuting trips (e.g. trips to work, school, errands, etc.)",1,Selected
+survey_res_main,ridesharewhy3,"When do you typically use ride share? 
+Other",0,Not Selected
+survey_res_main,ridesharewhy3,"When do you typically use ride share? 
+Other",1,Selected
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,1,I am not aware of these programs
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,2,It’s not available in my area
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,3,Too expensive
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,4,Not convenient
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,5,Public transit already meets my needs
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,6,I already have access to a vehicle when I need one
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,7,I prefer to ride alone
+survey_res_main,whynorideshare,What is the primary reason you are not currently using ride sharing?,8,Other
+survey_res_main,rideshareagree,Car-sharing and ride-sharing programs will affect my future decisions about owning a personal vehicle in the future,1,Strongly agree
+survey_res_main,rideshareagree,Car-sharing and ride-sharing programs will affect my future decisions about owning a personal vehicle in the future,2,Moderately agree
+survey_res_main,rideshareagree,Car-sharing and ride-sharing programs will affect my future decisions about owning a personal vehicle in the future,3,Neither agree nor disagree
+survey_res_main,rideshareagree,Car-sharing and ride-sharing programs will affect my future decisions about owning a personal vehicle in the future,4,Moderately disagree
+survey_res_main,rideshareagree,Car-sharing and ride-sharing programs will affect my future decisions about owning a personal vehicle in the future,5,Strongly disagree
+survey_res_main,solar,Do you currently have solar panels installed on your permanent residence?,1,Yes
+survey_res_main,solar,Do you currently have solar panels installed on your permanent residence?,2,No
+survey_res_main,solar_future,Are you planning on purchasing solar panels for your permanent residence within the next 5 years?,1,Yes
+survey_res_main,solar_future,Are you planning on purchasing solar panels for your permanent residence within the next 5 years?,2,No
+survey_res_main,income,Annual household income,1,"Less than $9,999"
+survey_res_main,income,Annual household income,2,"$10,000 to $24,999"
+survey_res_main,income,Annual household income,3,"$25,000 to $34,999"
+survey_res_main,income,Annual household income,4,"$35,000 to $49,999"
+survey_res_main,income,Annual household income,5,"$50,000 to $74,999"
+survey_res_main,income,Annual household income,6,"$75,000 to $99,999"
+survey_res_main,income,Annual household income,7,"$100,000 to $149,999"
+survey_res_main,income,Annual household income,8,"$150,000 to $199,999"
+survey_res_main,income,Annual household income,9,"$200,000 to $249,999"
+survey_res_main,income,Annual household income,10,"$250,000 or more"
+survey_res_main,region,Region of Residence,1,San Francisco
+survey_res_main,region,Region of Residence,2,Los Angeles
+survey_res_main,region,Region of Residence,3,San Diego
+survey_res_main,region,Region of Residence,4,Sacramento
+survey_res_main,region,Region of Residence,5,Central Valley
+survey_res_main,region,Region of Residence,6,Rest of CA
+survey_res_main,pevowner,Current ownership/lease of one or more Plug-in Hybrid Electric Vehicles (PHEV's) or Battery Electric Vehicles (BEV's),0,Respondent does not have any PHEV's or BEV's
+survey_res_main,pevowner,Current ownership/lease of one or more Plug-in Hybrid Electric Vehicles (PHEV's) or Battery Electric Vehicles (BEV's),1,Respondent has one or more PHEV's or BEV's
+survey_res_vehchoice,choice,Choice,1,Alternative 1
+survey_res_vehchoice,choice,Choice,2,Alternative 2
+survey_res_vehchoice,choice,Choice,3,Alternative 3
+survey_res_vehchoice,choice,Choice,4,Alternative 4
+survey_res_vehchoice,fuel,Vehicle fuel type,1,Gasoline
+survey_res_vehchoice,fuel,Vehicle fuel type,2,Hybrid
+survey_res_vehchoice,fuel,Vehicle fuel type,3,PHEV
+survey_res_vehchoice,fuel,Vehicle fuel type,4,E85
+survey_res_vehchoice,fuel,Vehicle fuel type,5,Diesel
+survey_res_vehchoice,fuel,Vehicle fuel type,6,Diesel hybrid
+survey_res_vehchoice,fuel,Vehicle fuel type,7,CNG
+survey_res_vehchoice,fuel,Vehicle fuel type,8,CNG hybrid
+survey_res_vehchoice,fuel,Vehicle fuel type,9,BEV
+survey_res_vehchoice,fuel,Vehicle fuel type,10,Hydrogen
+survey_res_vehchoice,veh,Vehicle type,1,Subcompact
+survey_res_vehchoice,veh,Vehicle type,2,Compact
+survey_res_vehchoice,veh,Vehicle type,3,Midsize
+survey_res_vehchoice,veh,Vehicle type,4,Large
+survey_res_vehchoice,veh,Vehicle type,5,Sports
+survey_res_vehchoice,veh,Vehicle type,6,"Cross-over, small"
+survey_res_vehchoice,veh,Vehicle type,7,"Cross-over, mid"
+survey_res_vehchoice,veh,Vehicle type,8,"SUV, small/mid"
+survey_res_vehchoice,veh,Vehicle type,9,"SUV, large"
+survey_res_vehchoice,veh,Vehicle type,10,"Pickup truck, standard"
+survey_res_vehchoice,veh,Vehicle type,11,"Pickup truck, full-size"
+survey_res_vehchoice,veh,Vehicle type,12,"Van, small"
+survey_res_vehchoice,veh,Vehicle type,13,"Van, full-size"
+survey_res_vehchoice,incentive,Vehicle purchase incentive,0,None
+survey_res_vehchoice,incentive,Vehicle purchase incentive,1,HOV lane access
+survey_res_vehchoice,incentive,Vehicle purchase incentive,2,$1000 tax credit
+survey_res_vehchoice,incentive,Vehicle purchase incentive,3,$2500 tax credit
+survey_res_vehchoice,incentive,Vehicle purchase incentive,4,$5000 tax credit
+survey_res_vehchoice,incentive,Vehicle purchase incentive,5,$7500 tax credit
+survey_res_vehchoice,incentive,Vehicle purchase incentive,6,$500 rebate
+survey_res_vehchoice,incentive,Vehicle purchase incentive,7,$1000 rebate
+survey_res_vehchoice,incentive,Vehicle purchase incentive,8,$1500 rebate
+survey_res_vehchoice,incentive,Vehicle purchase incentive,9,$2500 rebate
+survey_res_vehchoice,incentive,Vehicle purchase incentive,10,$5000 rebate
+survey_res_vehchoice,fuelavail_loc,Refueling Location,1,Station
+survey_res_vehchoice,fuelavail_loc,Refueling Location,2,Home
+survey_res_vehchoice,fuelavail_loc,Refueling Location,3,Work
+survey_res_vehchoice,refueltime,Refuel time,1,10 minutes - Conventional Fuels
+survey_res_vehchoice,refueltime,Refuel time,2,8 minutes - Conventional Fuels
+survey_res_vehchoice,refueltime,Refuel time,3,5 minutes - Conventional Fuels
+survey_res_vehchoice,refueltime,Refuel time,4,3 minutes - Conventional Fuels
+survey_res_vehchoice,refueltime,Refuel time,5,8 hours  - PHEV
+survey_res_vehchoice,refueltime,Refuel time,6,3.5 hours - PHEV
+survey_res_vehchoice,refueltime,Refuel time,7,2.5 hours  - PHEV
+survey_res_vehchoice,refueltime,Refuel time,8,30 minutes  - PHEV
+survey_res_vehchoice,refueltime,Refuel time,9,8 hours - BEV
+survey_res_vehchoice,refueltime,Refuel time,10,3.5 hours - BEV
+survey_res_vehchoice,refueltime,Refuel time,11,2.5 hours - BEV
+survey_res_vehchoice,refueltime,Refuel time,12,30 minutes - BEV
+survey_res_vehchoice,refueltime,Refuel time,13,10 minutes - CNG/Hydrogen
+survey_res_vehchoice,refueltime,Refuel time,14,8 minutes  - CNG/Hydrogen
+survey_res_vehchoice,refueltime,Refuel time,15,5 minutes  - CNG/Hydrogen
+survey_res_vehchoice,refueltime,Refuel time,16,3 minutes  - CNG/Hydrogen
