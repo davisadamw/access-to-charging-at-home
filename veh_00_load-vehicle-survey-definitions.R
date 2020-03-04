@@ -54,8 +54,6 @@ veh_survey_definitions_cl <- veh_survey_definitions %>%
 # some variables appear in multiple tables ... lets see if their values are coded consistently across the tables
 veh_survey_definitions_duplicates <- veh_survey_definitions_cl %>% 
   select(-var_label) %>% 
-  # there are some weird case mismatches, but if you force case...
-  mutate(value_label = str_to_lower(value_label)) %>% 
   distinct(var_name, value, value_label) %>% 
   group_by(var_name, value) %>% 
   # then therea aren't any left. Good!
@@ -63,7 +61,6 @@ veh_survey_definitions_duplicates <- veh_survey_definitions_cl %>%
 
 # this means, we can just force case and collapse accross all the tables
 veh_survey_definitions_cl_nodupes <- veh_survey_definitions_cl %>%
-  mutate(value_label = str_to_lower(value_label)) %>% 
   select(-source) %>% 
   distinct(var_name, value, value_label)
 
