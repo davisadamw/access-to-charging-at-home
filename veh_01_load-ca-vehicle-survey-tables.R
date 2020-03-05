@@ -38,16 +38,6 @@ vehicles_fewvars <- ca_veh_survey$vehicle %>%
          current_primary_driver, primary_driver_id) 
 
 # parking info is a multi-option thing stored in the definitions file
-parking_descs <- veh_survey_definitions %>% 
-  filter(str_starts(var_name, 'home_parking')) %>% 
-  distinct(var_name, var_label) %>% 
-  mutate(parking_type = str_extract(var_label, '(?<=\\?: )[A-Za-z ]+') %>% 
-           snakecase::to_snake_case()) %>% 
-  select(var_name, parking_type) %>% 
-  deframe()
-
-rename_parking <- function(name) parking_descs[name]
-
 parking_ranking <- tribble(
   ~parking_type,                             ~parking_level,    ~parking_ranking,
   'driveway',                                'driveway',        4,
@@ -74,7 +64,7 @@ parking_status <- ca_veh_survey$main %>%
   group_by(sampno) %>% 
   filter(parking_ranking == min(parking_ranking)) %>% 
   ungroup() %>% 
-  distinct(sampno, parking_level)
+  distinct(sampno, parking_level, parking_ranking)
   
     
 
@@ -84,7 +74,11 @@ parking_with_vehs <- ca_veh_survey$main %>%
   select(sampno, source, region,
          home_electricity_access) %>% 
   left_join(parking_status, by = 'sampno') %>% 
-  inner_join(vehicles_fewvars, by = 'sampno')
+  inner_join(vehicles_fewvars, by = 'sampno') %>% 
+  # also summarize charging ... NA's only come from no access to parking, so they're comfortable F's
+  mutate(any_charging = home_electricity_access != "None of them has reasonable access." &
+           home_electricity_access != "On the street" &
+           !is.na(home_electricity_access))
 
 parking_with_vehs %>% 
   write_rds('Data/parking_summary_2019.rds')
