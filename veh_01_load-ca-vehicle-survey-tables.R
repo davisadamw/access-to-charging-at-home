@@ -44,7 +44,7 @@ parking_ranking <- tribble(
   'on_the_street',                           'street',          9,
   'attached_garage',                         'garage_attached', 1,
   'detached_garage',                         'garage_detached', 2,
-  'unassigned_parking_in_lot_or_garage',     'lot',             3,
+  'unassigned_parking_in_lot_or_garage',     'lot',             4,
   'none_of_these_are_available_at_my_home',  'street',          9,
   'assigned_parking_in_lot_or_garage',       'lot',             4,
   'carport',                                 'carport',         3,
