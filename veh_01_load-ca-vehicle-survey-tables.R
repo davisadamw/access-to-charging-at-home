@@ -71,8 +71,8 @@ parking_status <- ca_veh_survey$main %>%
 # parking info ... multi choice stored awkwardly, need to rename variables
 # ... also attach vehicle info and drop households without any vehicles
 parking_with_vehs <- ca_veh_survey$main %>% 
-  select(sampno, source, region,
-         home_electricity_access) %>% 
+  select(sampno, source, county, region, 
+         housing, home_electricity_access) %>% 
   left_join(parking_status, by = 'sampno') %>% 
   inner_join(vehicles_fewvars, by = 'sampno') %>% 
   # also summarize charging ... NA's only come from no access to parking, so they're comfortable F's
