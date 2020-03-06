@@ -23,8 +23,8 @@ parking_with_vehs %>%
   bind_rows(summarize_at(., vars(-housing), sum))
 
 # measured literally just off the figure for San Diego (224 units for 80%)
-kurani_l2 <- tribble(
-  ~variable,  ~value,      ~total, ~l1,  ~l2,
+axsen_kurani <- tribble(
+  ~variable,  ~value,      ~total, ~l1, ~l2,
   'house_ak', 'detached',   201,   164,  84,
   'house_ak', 'attached',    42,    23,   9,
   'house_ak', 'apartment',   25,     6,   2,
@@ -40,25 +40,40 @@ kurani_l2 <- tribble(
          l2_t = l2 / total) %>% 
   select(variable, value, ends_with('_t'))
 
-parking_with_vehs %>% 
-  select(housing, parking_level) %>% 
-  mutate(parki_ak = if_else(str_starts(parking_level, 'garage'), 'garage', parking_level),
-         house_ak = 
-           case_when(
-             str_starts(housing, 'Single family house not') ~ 'detached',
-             str_starts(housing, 'Single family house att') ~ 'attached',
-             str_detect(housing, 'mobile')                  ~ 'mobile',
-             TRUE                                           ~ 'mobile')
+parking_with_vehs_ak <- parking_with_vehs %>% 
+  select(housing, parking_level, veh_type_clean, any_charging, parking_ranking) %>% 
+  mutate(
+    parki_ak = if_else(str_starts(parking_level, 'garage'), 'garage', parking_level),
+    house_ak = 
+      case_when(
+        str_starts(housing, 'Single family house not') ~ 'detached',
+        str_starts(housing, 'Single family house att') ~ 'attached',
+        str_detect(housing, 'mobile')                  ~ 'mobile',
+        TRUE                                           ~ 'mobile')
   ) %>% 
-  left_join(select(kurani_l2, value, l1_parking = l1_t, l2_parking = l2_t), by = c('parki_ak' = 'value')) %>% 
-  left_join(select(kurani_l2, value, l1_housing = l1_t, l2_housing = l2_t), by = c('house_ak' = 'value')) %>% 
-  summarise_at(vars(starts_with('l')), mean, na.rm = TRUE)
+  separate(veh_type_clean, 
+           c('veh_size', 'veh_body'),
+           sep = ' ',
+           extra = 'merge') %>% 
+  left_join(select(axsen_kurani, value, l1_parking = l1_t, l2_parking = l2_t), by = c('parki_ak' = 'value')) %>% 
+  left_join(select(axsen_kurani, value, l1_housing = l1_t, l2_housing = l2_t), by = c('house_ak' = 'value')) %>% 
+  mutate(l1_avg = (l1_parking + l1_housing) / 2,
+         l2_avg = (l2_parking + l2_housing) / 2,
+         lX_gar = any_charging & (parking_ranking <= 2),
+         lX_lot = any_charging & (parking_ranking <= 4))
   
 
-                     
-# okay, so first... using Kurani's outputs
-parking_with_vehs %>% 
-  count(housing) %>% 
-  mutate(wt_Kurani = 
-           case_when(
-             ))
+# housing/parking summary overall
+parking_with_vehs_ak %>% 
+  summarise_at(vars(starts_with('l')), mean, na.rm = TRUE)
+
+# broken down by vehicle type ... not much here
+parking_with_vehs_ak %>% 
+  group_by(veh_size, veh_body) %>% 
+  group_by(n = n(), add = TRUE) %>% 
+  summarise_at(vars(starts_with('l')), mean, na.rm = TRUE) %>% 
+  select(starts_with('veh'), n, starts_with('lX')) %>% 
+  arrange(desc(lX_gar)) %>% 
+  mutate_at(vars(starts_with('lX')), scales::percent_format(0.1)) %>% clipr::write_clip()
+  
+
